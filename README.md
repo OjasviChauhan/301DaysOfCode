@@ -4,3 +4,6 @@ Started to study Solidity language which is use to implement Smart Contracts in 
 Smart Contract Repository : https://github.com/OjasviChauhan/Smart-Contracts
 ## Day 2 : 24th April 2020
 Studied Servlets from https://www.youtube.com/watch?v=wty6OROO__8&list=PLsyeobzWxl7pUPF2xjjJiG4BKC9x_GY46&index=6 & Created one on Eclipse IDE and configured web.xml.
+## Day 3 : 25th April 2020
+Studied Data Structures in Solidity and wrote some codes for them to create few Contracts.
+link of Repo. : https://github.com/OjasviChauhan/Smart-Contracts
