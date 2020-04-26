@@ -8,6 +8,6 @@ Studied Servlets from https://www.youtube.com/watch?v=wty6OROO__8&list=PLsyeobzW
 Studied Data Structures in Solidity from https://solidity.readthedocs.io/en/v0.6.6/structure-of-a-contract.html and wrote some codes for them to create few Contracts.
 link of Repo. : https://github.com/OjasviChauhan/Smart-Contracts
 ## Day 4 : 26th April 2020
-Created a basic Login-App using Servlets with the help of Eclipse IDE and deployed on Apache Tomcat Server 9.0.
+Created a basic Login Web-App using Servlets with the help of Eclipse IDE and deployed on Apache Tomcat Server 9.0.
 Link for Repo : https://github.com/OjasviChauhan/Servlets
 
