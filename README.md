@@ -13,5 +13,5 @@ link of Repo. : https://github.com/OjasviChauhan/Smart-Contracts
 Created a basic Login Web-App using Servlets with the help of Eclipse IDE and deployed on Apache Tomcat Server 9.0.
 Link for Repo : https://github.com/OjasviChauhan/Servlets
 ## Day 5 : 27th April 2020
-Studied about Time units in Solidity and variable called "Now" from https://www.coursera.org/learn/smarter-contracts/lecture/8lLMG/data-structures-part-2-statetransv2-demo and created a smart contract called StateTrans.sol and tested it on Remix IDE https://remix.ethereum.org/
+Studied about Time units in Solidity and variable called "Now" from https://www.coursera.org/learn/smarter-contracts/lecture/8lLMG/data-structures-part-2-statetransv2-demo and created a smart contract called StateTrans.sol and tested it on [Remix IDE](https://remix.ethereum.org/).
 Link of repository : https://github.com/OjasviChauhan/Smart-Contracts/tree/master/Solidity%20Codes
