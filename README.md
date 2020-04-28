@@ -22,3 +22,5 @@ Studied about Time units in Solidity and variable called "Now" from [Coursera](h
 Link for repository : [Solidity Codes](https://github.com/OjasviChauhan/Smart-Contracts/tree/master/Solidity%20Codes).
 ## Day 6 : 28th April 2020
 Studied about Queues and Stack classes in Java and solved some problems from HackerRank under section "30 Days of Code". Click [here](https://github.com/OjasviChauhan/HackerRank-30-Days-of-Code/blob/master/Day%2018:%20Queues%20and%20Stacks.java) to view the solution.
+
+Studied about JDBC-ODBC drivers and learnt how to connect database to a web application and fetch data from server to store in database.
