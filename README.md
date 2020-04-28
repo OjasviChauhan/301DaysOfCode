@@ -20,3 +20,4 @@ Link for Repository : [Servlets](https://github.com/OjasviChauhan/Servlets).
 Studied about Time units in Solidity and variable called "Now" from [Coursera](https://www.coursera.org/learn/smarter-contracts/lecture/8lLMG/data-structures-part-2-statetransv2-demo) and created a smart contract called StateTrans.sol and tested it on [Remix IDE](https://remix.ethereum.org/).
 
 Link for repository : [Solidity Codes](https://github.com/OjasviChauhan/Smart-Contracts/tree/master/Solidity%20Codes).
+## Day 6 : 28th April 2020
