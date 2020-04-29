@@ -24,3 +24,5 @@ Link for repository : [Solidity Codes](https://github.com/OjasviChauhan/Smart-Co
 Studied about Queues and Stack classes in Java and solved some problems from HackerRank under section "30 Days of Code". Click [here](https://github.com/OjasviChauhan/HackerRank-30-Days-of-Code/blob/master/Day%2018:%20Queues%20and%20Stacks.java) to view the solution.
 
 Studied about JDBC-ODBC drivers and learnt how to connect database to a web application and fetch data from server to store in database.
+## Day 7 : 29th April 2020
+Studied Access Modifiers and Applications in Solidity and created few contracts using these concepts.
