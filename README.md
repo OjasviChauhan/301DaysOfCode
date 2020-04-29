@@ -26,4 +26,5 @@ Studied about Queues and Stack classes in Java and solved some problems from Hac
 Studied about JDBC-ODBC drivers and learnt how to connect database to a web application and fetch data from server to store in database.
 ## Day 7 : 29th April 2020
 Studied Access Modifiers and Applications in Solidity and created few contracts using these concepts.
+
 Link for Repository : [Solidity Codes](https://github.com/OjasviChauhan/Smart-Contracts/tree/master/Solidity%20Codes)
