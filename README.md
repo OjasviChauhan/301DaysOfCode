@@ -28,3 +28,4 @@ Studied about JDBC-ODBC drivers and learnt how to connect database to a web appl
 Studied Access Modifiers and Applications in Solidity and created few contracts using these concepts.
 
 Link for Repository : [Solidity Codes](https://github.com/OjasviChauhan/Smart-Contracts/tree/master/Solidity%20Codes)
+## Day 8 : 30th April 2020
