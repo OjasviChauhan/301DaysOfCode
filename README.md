@@ -29,3 +29,5 @@ Studied Access Modifiers and Applications in Solidity and created few contracts 
 
 Link for Repository : [Solidity Codes](https://github.com/OjasviChauhan/Smart-Contracts/tree/master/Solidity%20Codes)
 ## Day 8 : 30th April 2020
+Studied Time Elements in Solidity from [Coursera](https://www.coursera.org/learn/smarter-contracts/lecture/IsmQt/time-elements-part-1) and implemented the concept in a contract.
+Link for Repository : [Solidity Codes](https://github.com/OjasviChauhan/Smart-Contracts/tree/master/Solidity%20Codes).
