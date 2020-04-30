@@ -31,3 +31,5 @@ Link for Repository : [Solidity Codes](https://github.com/OjasviChauhan/Smart-Co
 ## Day 8 : 30th April 2020
 Studied Time Elements in Solidity from [Coursera](https://www.coursera.org/learn/smarter-contracts/lecture/IsmQt/time-elements-part-1) and implemented the concept in a contract.
 Link for Repository : [Solidity Codes](https://github.com/OjasviChauhan/Smart-Contracts/tree/master/Solidity%20Codes).
+
+Learnt about "Metamask" which is a crypto Wallet, act as a gateway to blockchain apps from [here](https://www.youtube.com/watch?v=yNhV4ifFPb0&list=PLsyeobzWxl7oY6tZmnZ5S7yTDxyu4zDW-&index=20) and learnt how to connect a smart contract to RinkeBy Ethereum test network and adding some ethers to the account.
