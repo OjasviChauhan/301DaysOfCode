@@ -32,4 +32,4 @@ Link for Repository : [Solidity Codes](https://github.com/OjasviChauhan/Smart-Co
 Studied Time Elements in Solidity from [Coursera](https://www.coursera.org/learn/smarter-contracts/lecture/IsmQt/time-elements-part-1) and implemented the concept in a contract.
 Link for Repository : [Solidity Codes](https://github.com/OjasviChauhan/Smart-Contracts/tree/master/Solidity%20Codes).
 
-Learnt about "Metamask" which is a crypto Wallet that act as a gateway to blockchain apps and learnt how to connect a smart contract to RinkeBy Ethereum test network and adding some ethers to the account.
+Learnt about **"Metamask"** which is a crypto Wallet that act as a gateway to blockchain apps and learnt how to connect a smart contract to **RinkeBy** Ethereum test network and adding some ethers to the account.
