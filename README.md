@@ -33,3 +33,4 @@ Studied Time Elements in Solidity from [Coursera](https://www.coursera.org/learn
 Link for Repository : [Solidity Codes](https://github.com/OjasviChauhan/Smart-Contracts/tree/master/Solidity%20Codes).
 
 Learnt about **"Metamask"** which is a crypto Wallet that act as a gateway to blockchain apps and learnt how to connect a smart contract to **RinkeBy** Ethereum test network and adding some ethers to the account.
+## Day 9 : 1st May 2020
