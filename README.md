@@ -34,6 +34,6 @@ Link for Repository : [Solidity Codes](https://github.com/OjasviChauhan/Smart-Co
 
 Learnt about **"Metamask"** which is a crypto Wallet that act as a gateway to blockchain apps and learnt how to connect a smart contract to **RinkeBy** Ethereum test network and adding some ethers to the account.
 ## Day 9 : 1st May 2020
-Studied Enums and Modifiers in Solidity and created severel stages in contract. Also learnt how to revert transaction if wrong function has been called in wrong stage.
+Studied **Enums** and **Modifiers** in Solidity and created severel stages in contract. Also learnt how to revert transaction if wrong function has been called in wrong stage.
 
 Link for Repository : [Solidity_Codes](https://github.com/OjasviChauhan/Smart-Contracts/tree/master/Solidity%20Codes).
