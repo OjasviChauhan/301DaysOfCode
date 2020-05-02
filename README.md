@@ -38,3 +38,4 @@ Studied **Enums** and **Modifiers** in Solidity and created severel stages in co
 
 Link for Repository : [Solidity_Codes](https://github.com/OjasviChauhan/Smart-Contracts/tree/master/Solidity%20Codes).
 ## Day 10 : 2nd May 2020
+Got to know about **The Foobar challenge: Google’s hidden test for developers** and solved its first problem on strings.
