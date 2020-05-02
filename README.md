@@ -37,3 +37,4 @@ Learnt about **"Metamask"** which is a crypto Wallet that act as a gateway to bl
 Studied **Enums** and **Modifiers** in Solidity and created severel stages in contract. Also learnt how to revert transaction if wrong function has been called in wrong stage.
 
 Link for Repository : [Solidity_Codes](https://github.com/OjasviChauhan/Smart-Contracts/tree/master/Solidity%20Codes).
+## Day 10 : 2nd May 2020
