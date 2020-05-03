@@ -41,3 +41,5 @@ Link for Repository : [Solidity_Codes](https://github.com/OjasviChauhan/Smart-Co
 Got to know about **"The Foobar challenge: Google’s hidden test for developers"** and solved its first problem on strings. For more information about this challenge, you can read [this](https://medium.com/chingu/my-experience-with-the-google-foobar-challenge-and-tips-on-what-to-do-if-you-get-it-9848d31d3d20) article.
 ## Day 11 : 3rd May 2020
 Competed Level 1 of **Foobar Challenge** and tried to solve Level 2's first question.
+
+Read the last Problem Statement of the course **SmartContract** which I've been doing on Coursera for few weeks and tried to build its Algorithm for file called **Auction.sol**.
