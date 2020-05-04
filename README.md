@@ -43,3 +43,5 @@ Got to know about **"The Foobar challenge: Google’s hidden test for developers
 Competed Level 1 of **Foobar Challenge** and tried to solve Level 2's first question.
 
 Read the last Problem Statement of the course **SmartContract** which I've been doing on Coursera for few weeks and tried to build its Algorithm for file called **Auction.sol**.
+## Day 12 : 4th May 2020
+Completed 2nd Question of **Foobar Challenge**.  
