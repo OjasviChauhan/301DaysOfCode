@@ -45,3 +45,5 @@ Competed Level 1 of **Foobar Challenge** and tried to solve Level 2's first ques
 Read the last Problem Statement of the course **SmartContract** which I've been doing on Coursera for few weeks and tried to build its Algorithm for file called **Auction.sol**.
 ## Day 12 : 4th May 2020
 Completed 2nd Question of **Foobar Challenge**.  
+## Day 13 : 5th May 2020
+Solved questions from Codechef's May Long Challenge and tried Level 3 questions of Foobar
