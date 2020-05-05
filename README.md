@@ -43,9 +43,14 @@ Got to know about **"The Foobar challenge: Google’s hidden test for developers
 Competed Level 1 of **Foobar Challenge** and tried to solve Level 2's first question.
 
 Read the last Problem Statement of the course **SmartContract** which I've been doing on Coursera for few weeks and tried to build its Algorithm for file called **Auction.sol**.
+
+Link For Repository : [Google Foobar](https://github.com/OjasviChauhan/Google-Foobar). 
 ## Day 12 : 4th May 2020
-Completed 2nd Question of **Foobar Challenge**.  
+Completed 2nd Question of **Foobar Challenge**. 
+
+Link For Repository : [Google Foobar](https://github.com/OjasviChauhan/Google-Foobar). 
 ## Day 13 : 5th May 2020
-Solved questions from Codechef's May Long Challenge and tried to solve a Level 3 question of Foobar.
-Link for Codechef Repository : [CodeChef May Long Challenge](https://github.com/OjasviChauhan/CodeChef-Problems/tree/master/5.May%20Long%20Challenge%2020).
+Solved questions from **Codechef's May Long Challenge** and tried to solve a Level 3 question of Foobar.
+
+Link for Repository : [CodeChef May Long Challenge](https://github.com/OjasviChauhan/CodeChef-Problems/tree/master/5.May%20Long%20Challenge%2020).
 
