@@ -46,4 +46,6 @@ Read the last Problem Statement of the course **SmartContract** which I've been 
 ## Day 12 : 4th May 2020
 Completed 2nd Question of **Foobar Challenge**.  
 ## Day 13 : 5th May 2020
-Solved questions from Codechef's May Long Challenge and tried Level 3 questions of Foobar
+Solved questions from Codechef's May Long Challenge and tried to solve a Level 3 question of Foobar.
+Link for Codechef Repository : [CodeChef May Long Challenge](https://github.com/OjasviChauhan/CodeChef-Problems/tree/master/5.May%20Long%20Challenge%2020).
+
