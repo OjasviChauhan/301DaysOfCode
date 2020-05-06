@@ -53,4 +53,7 @@ Link For Repository : [Google Foobar](https://github.com/OjasviChauhan/Google-Fo
 Solved questions from **Codechef's May Long Challenge** and tried to solve a Level 3 question of Foobar.
 
 Link for Repository : [CodeChef May Long Challenge](https://github.com/OjasviChauhan/CodeChef-Problems/tree/master/5.May%20Long%20Challenge%2020).
+## Day 14 : 6th May 2020
+Solved first question of Level 3 of Foobar Challenge. Link is [here](https://github.com/OjasviChauhan/Google-Foobar/tree/master/Level%203).
 
+Solved questions from Codechef's Long Challenge. Link is [here](https://github.com/OjasviChauhan/CodeChef-Problems/tree/master/5.May%20Long%20Challenge%2020).
