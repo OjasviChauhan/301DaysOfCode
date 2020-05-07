@@ -57,3 +57,7 @@ Link for Repository : [CodeChef May Long Challenge](https://github.com/OjasviCha
 Solved first question of Level 3 of Foobar Challenge. Link is [here](https://github.com/OjasviChauhan/Google-Foobar/tree/master/Level%203).
 
 Solved questions from Codechef's Long Challenge. Link is [here](https://github.com/OjasviChauhan/CodeChef-Problems/tree/master/5.May%20Long%20Challenge%2020).
+## Day 15 : 7th May 2020
+Successfully completed 2nd course "Smart Contracts" from the specialization of Blockchain. Worked on the last project of course and created a smart contract for an Auction. 
+
+Link for Repository : [Smart Contracts](https://github.com/OjasviChauhan/Smart-Contracts)
