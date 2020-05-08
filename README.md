@@ -61,3 +61,5 @@ Solved questions from Codechef's Long Challenge. Link is [here](https://github.c
 Successfully completed 2nd course "Smart Contracts" from the specialization of Blockchain. Worked on the last project of course and created a smart contract for an Auction. 
 
 Link for Repository : [Smart Contracts](https://github.com/OjasviChauhan/Smart-Contracts)
+## Day 16 : 8th May 2020
+Completed 2nd question of Level 3 of Foobar Challenge. Check my code [here](https://github.com/OjasviChauhan/Google-Foobar).
