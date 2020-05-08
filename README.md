@@ -62,4 +62,6 @@ Successfully completed 2nd course "Smart Contracts" from the specialization of B
 
 Link for Repository : [Smart Contracts](https://github.com/OjasviChauhan/Smart-Contracts)
 ## Day 16 : 8th May 2020
+Studied Dynamic Programming and its two approaches i.e. optimal substructure and overlapping subproblems. Also learned how to apply it to drastically reduce the time complexity.
+
 Completed 2nd question of Level 3 of Foobar Challenge. Check my code [here](https://github.com/OjasviChauhan/Google-Foobar).
