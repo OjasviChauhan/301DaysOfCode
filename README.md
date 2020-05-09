@@ -65,3 +65,7 @@ Link for Repository : [Smart Contracts](https://github.com/OjasviChauhan/Smart-C
 Studied Dynamic Programming and its two approaches i.e. optimal substructure and overlapping subproblems. Also learned how to apply it to drastically reduce the time complexity.
 
 Completed 2nd question of Level 3 of Foobar Challenge. Check my code [here](https://github.com/OjasviChauhan/Google-Foobar).
+## Day 17 : 9th May 2020
+Started to learn Python from [here](https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_).
+
+Also studied some examples of Dynamic Programing and solved its problems on Hackerrank.
