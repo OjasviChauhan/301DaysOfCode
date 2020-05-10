@@ -69,3 +69,5 @@ Completed 2nd question of Level 3 of Foobar Challenge. Check my code [here](http
 Started to learn Python from [here](https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_).
 
 Also studied some examples of Dynamic Programing and solved its problems on Hackerrank.
+## Day 18 : 10th May 2020
+Solved problems of DP on Hackerrank and continued to learn Python.
