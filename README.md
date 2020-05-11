@@ -71,3 +71,5 @@ Started to learn Python from [here](https://www.youtube.com/watch?v=HBxCHonP6Ro&
 Also studied some examples of Dynamic Programing and solved its problems on Hackerrank.
 ## Day 18 : 10th May 2020
 Solved problems of DP on Hackerrank and continued to learn Python. Link for Repository : [Dynamic Programing](https://github.com/OjasviChauhan/HackerRank-ProblemSolving/tree/master/Dynamic%20Programing).
+## Day 19 : 11th May 2020
+Studied Python further and started to solve problems on Hackerrank in the domain of Python. Link for Repository : [Hackerrank Python](https://github.com/OjasviChauhan/HackerRank-Python/tree/master/Introduction). 
