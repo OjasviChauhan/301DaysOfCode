@@ -73,3 +73,7 @@ Also studied some examples of Dynamic Programing and solved its problems on Hack
 Solved problems of DP on Hackerrank and continued to learn Python. Link for Repository : [Dynamic Programing](https://github.com/OjasviChauhan/HackerRank-ProblemSolving/tree/master/Dynamic%20Programing).
 ## Day 19 : 11th May 2020
 Studied Python further and started to solve problems on Hackerrank in the domain of Python. Link for Repository : [Hackerrank Python](https://github.com/OjasviChauhan/HackerRank-Python/tree/master/Introduction). 
+## Day 20 : 12th May 2020
+Studied Functions and Arguments in Python. Solved problems of python on Hackerrank and earned 2nd star badge.
+
+Link for repository: [Hackerrank Python](https://github.com/OjasviChauhan/HackerRank-Python/tree/master/Introduction). 
