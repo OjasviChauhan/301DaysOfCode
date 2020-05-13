@@ -77,3 +77,9 @@ Studied Python further and started to solve problems on Hackerrank in the domain
 Studied Functions and Arguments in Python. Solved problems of python on Hackerrank and earned 2nd star badge.
 
 Link for repository: [Hackerrank Python](https://github.com/OjasviChauhan/HackerRank-Python/tree/master/Introduction). 
+## Day 21 : 13th May 2020
+Started a new course **Git and Github** on Coursera and studied about **"Version Control Systems"**.
+
+Studied Dynamic Programming and solved its problems on Hackerrank in Python Language.
+
+Solved Python questions from Hackerrank in the sub domain of **'Basic data Types'**.
