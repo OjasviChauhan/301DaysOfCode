@@ -78,8 +78,8 @@ Studied Functions and Arguments in Python. Solved problems of python on Hackerra
 
 Link for repository: [Hackerrank Python](https://github.com/OjasviChauhan/HackerRank-Python/tree/master/Introduction). 
 ## Day 21 : 13th May 2020
-Started a new course **Git and Github** on Coursera and studied about **"Version Control Systems"**.
+Started a new course **Introduction to Git and Github** on [Coursera](https://www.coursera.org/learn/introduction-git-github/home/welcome) and studied about **"Version Control Systems"**.
 
-Studied Dynamic Programming and solved its problems on Hackerrank in Python Language.
+Studied Dynamic Programming and solved its problems on Hackerrank in Python Language. [Click here](https://github.com/OjasviChauhan/HackerRank-ProblemSolving/blob/master/Dynamic%20Programing/Fibonacci%20Modified.py) to check program which I made. 
 
-Solved Python questions from Hackerrank in the sub domain of **'Basic data Types'**.
+Solved Python questions from Hackerrank in the sub domain of **'Basic data Types'**. Link For Repository : [Hackerrank Python](https://github.com/OjasviChauhan/HackerRank-Python/tree/master/Basic%20Data%20Types).
