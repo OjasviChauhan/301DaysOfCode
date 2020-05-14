@@ -83,3 +83,5 @@ Started a new course **Introduction to Git and Github** on [Coursera](https://ww
 Studied Dynamic Programming and solved its problems on Hackerrank in Python Language. [Click here](https://github.com/OjasviChauhan/HackerRank-ProblemSolving/blob/master/Dynamic%20Programing/Fibonacci%20Modified.py) to check program which I made. 
 
 Solved Python questions from Hackerrank in the sub domain of **'Basic data Types'**. Link For Repository : [Hackerrank Python](https://github.com/OjasviChauhan/HackerRank-Python/tree/master/Basic%20Data%20Types).
+## Day 22 : 14th May 2020
+Solved Python on HackerRank and earned 3rd Star. Link For Repository : [Hackerrank Python](https://github.com/OjasviChauhan/HackerRank-Python/tree/master/Basic%20Data%20Types).
