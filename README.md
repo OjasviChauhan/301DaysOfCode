@@ -85,3 +85,7 @@ Studied Dynamic Programming and solved its problems on Hackerrank in Python Lang
 Solved Python questions from Hackerrank in the sub domain of **'Basic data Types'**. Link For Repository : [Hackerrank Python](https://github.com/OjasviChauhan/HackerRank-Python/tree/master/Basic%20Data%20Types).
 ## Day 22 : 14th May 2020
 Solved Python on HackerRank and earned 3rd Star. Link For Repository : [Hackerrank Python](https://github.com/OjasviChauhan/HackerRank-Python/tree/master/Basic%20Data%20Types).
+## Day 23 : 15th May 2020
+Created a Dynamic Web Application using Servlets, JSP and gave it a Java Database connectivity (JDBC) using MySql Workbench.
+
+Link for Repository: https://github.com/OjasviChauhan/Servlets/tree/master/LoginModule
