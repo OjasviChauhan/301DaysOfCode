@@ -89,3 +89,5 @@ Solved Python on HackerRank and earned 3rd Star. Link For Repository : [Hackerra
 Created a Dynamic Web Application using Servlets, JSP and gave it a Java Database connectivity (JDBC) using MySql Workbench.
 
 Link for Repository: https://github.com/OjasviChauhan/Servlets/tree/master/LoginModule
+## Day 24 : 16th May 2020
+Studied Dynamic Programming and solved a question on a tetrahedral using DP from Codeforces.
