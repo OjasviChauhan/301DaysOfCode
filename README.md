@@ -91,3 +91,7 @@ Created a Dynamic Web Application using Servlets, JSP and gave it a Java Databas
 Link for Repository: https://github.com/OjasviChauhan/Servlets/tree/master/LoginModule
 ## Day 24 : 16th May 2020
 Studied Dynamic Programming and solved a question on a tetrahedral using DP from Codeforces.
+## Day 25 : 17th May 2020
+Participated in Google Kickstart Round C and was able to solve it's two questions i.e **Countdown** and **Perfect Subarray**.
+
+Also Solved questions from Hackerrank in the domain of Dynamic Programming. Link is [here](https://github.com/OjasviChauhan/HackerRank-ProblemSolving/blob/master/Dynamic%20Programing/The%20Maximum%20Subarray.py). 
