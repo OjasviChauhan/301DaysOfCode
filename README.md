@@ -95,3 +95,5 @@ Studied Dynamic Programming and solved a question on a tetrahedral using DP from
 Participated in Google Kickstart Round C and was able to solve it's two questions i.e **Countdown** and **Perfect Subarray**.
 
 Also Solved questions from Hackerrank in the domain of Dynamic Programming. Link is [here](https://github.com/OjasviChauhan/HackerRank-ProblemSolving/blob/master/Dynamic%20Programing/The%20Maximum%20Subarray.py). 
+## Day 26 : 18th May 2020
+Studied JDBC from the topic Advance Java and Studied Git from the course **Introduction to Git and Github** from Coursera.
