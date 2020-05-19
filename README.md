@@ -99,3 +99,5 @@ Also Solved questions from Hackerrank in the domain of Dynamic Programming. Link
 Studied JDBC from the topic Advance Java and Studied Git from the course **Introduction to Git and Github** from Coursera.
 
 Also solved problems of Python on Hackerrank. Link for Repository: [Hackerrank Python](https://github.com/OjasviChauhan/HackerRank-Python/tree/master/Basic%20Data%20Types).
+## Day 27 : 19th May 2020
+Learned some new commands of Git and implemented them on Git Bash 
