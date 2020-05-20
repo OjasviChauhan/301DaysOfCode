@@ -102,4 +102,4 @@ Also solved problems of Python on Hackerrank. Link for Repository: [Hackerrank P
 ## Day 27 : 19th May 2020
 Learned some new commands of Git and implemented them on Git Bash 
 ## Day 28 : 20th May 2020
-Today, I've just coded some problems in the domain of Python on HackerRank. Link for Repository : [Hackerrank Python](https://github.com/OjasviChauhan/HackerRank-Python/tree/master/Basic%20Data%20Types).
+Today, I've just coded some problems of strings in the domain of Python on HackerRank. Link for Repository : [Hackerrank Python](https://github.com/OjasviChauhan/HackerRank-Python/tree/master/Strings).
