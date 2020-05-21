@@ -104,4 +104,4 @@ Learned some new commands of Git and implemented them on Git Bash
 ## Day 28 : 20th May 2020
 Today, I've just coded some problems of strings in the domain of Python on HackerRank. Link for Repository : [Hackerrank Python](https://github.com/OjasviChauhan/HackerRank-Python/tree/master/Strings).
 ## Day 29 : 21st May 2020
-Solved problems in the Python section and earned 4th Star on HackerRank.Link for Repository : [HackerRank Python](https://github.com/OjasviChauhan/HackerRank-Python/tree/master/Strings).
+Solved problems in the Python section and earned 4th Star on HackerRank. Link for Repository : [HackerRank Python](https://github.com/OjasviChauhan/HackerRank-Python/tree/master/Strings).
