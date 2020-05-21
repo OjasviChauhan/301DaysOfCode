@@ -105,3 +105,7 @@ Learned some new commands of Git and implemented them on Git Bash
 Today, I've just coded some problems of strings in the domain of Python on HackerRank. Link for Repository : [Hackerrank Python](https://github.com/OjasviChauhan/HackerRank-Python/tree/master/Strings).
 ## Day 29 : 21st May 2020
 Solved problems in the Python section and earned 4th Star on HackerRank. Link for Repository : [HackerRank Python](https://github.com/OjasviChauhan/HackerRank-Python/tree/master/Strings).
+
+Studied about **Advanced Git Interactions** from the course I've been doing on Coursera.
+
+Started a new Course in the specialization of Blockchain i.e. [Decentralized Applications](https://www.coursera.org/learn/decentralized-apps-on-blockchain/home/welcome).
