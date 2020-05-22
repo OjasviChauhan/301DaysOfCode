@@ -109,3 +109,4 @@ Solved problems in the Python section and earned 4th Star on HackerRank. Link fo
 Studied about **Advanced Git Interactions** from the course I've been doing on Coursera.
 
 Started a new Course in the specialization of Blockchain i.e. [Decentralized Applications](https://www.coursera.org/learn/decentralized-apps-on-blockchain/home/welcome).
+## Day 30 : 22nd May 2020
