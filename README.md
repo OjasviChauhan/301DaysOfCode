@@ -111,3 +111,5 @@ Studied about **Advanced Git Interactions** from the course I've been doing on C
 Started a new Course in the specialization of Blockchain i.e. [Decentralized Applications](https://www.coursera.org/learn/decentralized-apps-on-blockchain/home/welcome).
 ## Day 30 : 22nd May 2020
 Studied about Decentralized Applications and Ethereum APIs.
+## Day  31 : 23rd May 2020
+Deployed my first smart contract in Truffle IDE on localhost and learned various commands of truffle.
