@@ -113,6 +113,8 @@ Started a new Course in the specialization of Blockchain i.e. [Decentralized App
 Studied about Decentralized Applications and Ethereum APIs.
 
 Deployed my first smart contract in Truffle IDE on localhost and learned various commands of truffle.
-## Day  31 : 23rd May 2020
+## Day 31 : 23rd May 2020
 Created a full stack Decentralized App for "voting the fruits" on Blockchain Server. Firstly I created its backend using smart contracts on truffle IDE and then migrated and tested those on the same. 
 After that I used some pre-defined templates written in JavaScript, for connecting it with front-end using some of the node modules like "lite-server".
+## Day 32 : 24th May 2020
+Started a new Web development bootcamp from Udemy and learn some functions of Javascript.
