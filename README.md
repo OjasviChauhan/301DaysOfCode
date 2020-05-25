@@ -119,4 +119,4 @@ After that I used some pre-defined templates written in JavaScript, for connecti
 ## Day 32 : 24th May 2020
 Started a new Web development bootcamp from Udemy and learn some functions of Javascript.
 ## Day 33 : 25th May 2020
-Studied Javascript and Document Object Model from Web development course on Udemy. Also learned about tree structure of HTML which DOM provides us in which every element of tree act as an object.
+Studied Javascript and Document Object Model from Web development course on [Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/). Also learned about tree structure of HTML which DOM provides us in which every element of tree act as an object.
