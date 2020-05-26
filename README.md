@@ -121,4 +121,4 @@ Started a new Web development bootcamp from Udemy and learn some functions of Ja
 ## Day 33 : 25th May 2020
 Studied Javascript and Document Object Model from Web development course on [Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/). Also learned about tree structure of HTML which DOM provides us in which every element of tree act as an object.
 ## Day 34 : 26th May 2020
-Connected my Dapp to Metamask Management System and gave it a run. Also learned how to manipulate html and css using DOM objects from the web development course on Udemy
+Connected my Dapp to Metamask Management System and gave it a run. Also learned how to manipulate html and css using DOM objects from the web development course on Udemy.
