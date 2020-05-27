@@ -123,5 +123,5 @@ Studied Javascript and Document Object Model from Web development course on [Ude
 ## Day 34 : 26th May 2020
 Connected my Dapp to Metamask Management System and gave it a run. Also learned how to manipulate html and css using DOM objects from the web development course on Udemy.
 ## Day 35 : 27th May 2020
-Learned adding Event Listeners in Javascript.__
+Learned adding Event Listeners in Javascript. <br/>
 Learned adding sounds in websites.
