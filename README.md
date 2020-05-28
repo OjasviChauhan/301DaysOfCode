@@ -123,6 +123,10 @@ Studied Javascript and Document Object Model from Web development course on [Ude
 ## Day 34 : 26th May 2020
 Connected my Dapp to Metamask Management System and gave it a run. Also learned how to manipulate html and css using DOM objects from the web development course on Udemy.
 ## Day 35 : 27th May 2020
-Learned adding Event Listeners in Javascript. <br/>
-Learned adding sounds in websites. <br/>
-Also Learned about Javascript Objects from Udemy course.
+- Learned adding Event Listeners in Javascript. <br/>
+- Learned adding sounds in websites. <br/>
+- Also Learned about Javascript Objects from Udemy course.
+## Day 36 : 28th May 2020
+- Solved Problem 2 of Code Gladiator's online coding round. [Code Gladiators](https://github.com/OjasviChauhan/Competitive-Programming/tree/master/Code%20Gladiators) <br/>
+- Learned how to add KeyPress Event Listeners in JavaScript. <br/> 
+- Learned creating Constructors and their Methods in Javascript.
