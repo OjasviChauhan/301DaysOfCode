@@ -127,6 +127,6 @@ Connected my Dapp to Metamask Management System and gave it a run. Also learned 
 - Learned adding sounds in websites. <br/>
 - Also Learned about Javascript Objects from Udemy course.
 ## Day 36 : 28th May 2020
-- Solved Problem 2 of Code Gladiator's online coding round. [Code Gladiators](https://github.com/OjasviChauhan/Competitive-Programming/tree/master/Code%20Gladiators) <br/>
+- Solved Problem 2 of Code Gladiator's online coding round. Link is here: [Code Gladiators](https://github.com/OjasviChauhan/Competitive-Programming/tree/master/Code%20Gladiators) <br/>
 - Learned how to add KeyPress Event Listeners in JavaScript. <br/> 
 - Learned creating Constructors and their Methods in Javascript.
