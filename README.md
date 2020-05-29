@@ -132,6 +132,6 @@ Connected my Dapp to Metamask Management System and gave it a run. Also learned 
 - Learned creating Constructors and their Methods in Javascript.
 ## Day 37 : 29th May 2020
 - Studied Exceptions and Inheritance in Python and then solved its problem on HackerRank. Link for Repo: [HackerRank Python](https://github.com/OjasviChauhan/HackerRank-Python/tree/master/Strings).
-- Completed Advanced Javascript and DOM manipulation and finally made a **"Drum Kit"** Website. Click [here](https://github.com/OjasviChauhan/Web-Development/tree/master/Advanced%20Javascript%20and%20DOM%20Manipulation/Drum%20Kit) to visit.
+- Completed Advanced Javascript & DOM manipulation by learning how to add animations to buttons and finally made a **"Drum Kit"** Website. Click [here](https://github.com/OjasviChauhan/Web-Development/tree/master/Advanced%20Javascript%20and%20DOM%20Manipulation/Drum%20Kit) to visit.
 - Done Problem Solving on HackerRank.
 - And Finally started Node.js and imported my first package from https://www.npmjs.com/ to my "Intro to node" Project.
