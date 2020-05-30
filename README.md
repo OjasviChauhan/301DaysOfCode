@@ -135,3 +135,8 @@ Connected my Dapp to Metamask Management System and gave it a run. Also learned 
 - Completed Advanced Javascript & DOM manipulation by learning how to add animations to buttons and finally made a **"Drum Kit"** Website. Click [here](https://github.com/OjasviChauhan/Web-Development/tree/master/Advanced%20Javascript%20and%20DOM%20Manipulation/Drum%20Kit) to visit.
 - Done Problem Solving on HackerRank.
 - And Finally started Node.js and imported my first package from https://www.npmjs.com/ to my "Intro to node" Project.
+## Day 38 : 30th May 2020
+- Created my first Express Server under which:- 
+    i. Learned how to recieve request and send response.
+   ii. Learned how to get directory name of html page using ***__dirname*** from anywhere anytime.
+  iii. Learned how to body-parse content of html on the server.
