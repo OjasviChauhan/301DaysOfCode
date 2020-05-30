@@ -137,6 +137,6 @@ Connected my Dapp to Metamask Management System and gave it a run. Also learned 
 - And Finally started Node.js and imported my first package from https://www.npmjs.com/ to my "Intro to node" Project.
 ## Day 38 : 30th May 2020
 - Created my first Express Server under which:- 
-    i. Learned how to recieve request and send response.
-   ii. Learned how to get directory name of html page using ***__dirname*** from anywhere anytime.
-  iii. Learned how to body-parse content of html on the server.
+  - Learned how to recieve request and send response.
+  - Learned how to get directory name of html page using ***__dirname*** from anywhere anytime.
+  - Learned how to body-parse content of html on the server.
