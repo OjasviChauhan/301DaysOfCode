@@ -119,7 +119,7 @@ After that I used some pre-defined templates written in JavaScript, for connecti
 ## Day 32 : 24th May 2020
 Started a new Web development bootcamp from Udemy and learn some functions of Javascript.
 ## Day 33 : 25th May 2020
-Studied Javascript and Document Object Model from Web development course on [Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/). Also learned about tree structure of HTML which DOM provides us in which every element of tree act as an object.
+Studied39 Javascript and Document Object Model from Web development course on [Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/). Also learned about tree structure of HTML which DOM provides us in which every element of tree act as an object.
 ## Day 34 : 26th May 2020
 Connected my Dapp to Metamask Management System and gave it a run. Also learned how to manipulate html and css using DOM objects from the web development course on Udemy.
 ## Day 35 : 27th May 2020
@@ -141,3 +141,7 @@ Connected my Dapp to Metamask Management System and gave it a run. Also learned 
   - Learned how to get directory name of html page using ***__dirname*** from anywhere anytime.
   - Learned how to body-parse content of html on the server. <br/>
   Link for Repository : [my-Express-Server](https://github.com/OjasviChauhan/Web-Development/tree/master/my-express-server/Creating%20my%20First%20server).
+## Day 39 : 31st May 2020
+- Participated in a HackerRank contest known as ***Hack the Interview(Asia Pacific)*** and solved its first two problems.
+Link for Repo:[Hack the Interview(Asia Pacific)](https://github.com/OjasviChauhan/Competitive-Programming/tree/master/Hack%20the%20Interview%20IV%20(Asia%20Pacific).
+- Completed 30-Days-of-Code and got gold batch on HackerRank.
