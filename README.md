@@ -143,5 +143,5 @@ Connected my Dapp to Metamask Management System and gave it a run. Also learned 
   Link for Repository : [my-Express-Server](https://github.com/OjasviChauhan/Web-Development/tree/master/my-express-server/Creating%20my%20First%20server).
 ## Day 39 : 31st May 2020
 - Participated in a HackerRank contest known as ***Hack the Interview(Asia Pacific)*** and solved its first two problems.
-Link for Repo: [Hack the Interview IV(Asia Pacific)](https://github.com/OjasviChauhan/Competitive-Programming/tree/master/Hack%20the%20Interview%20IV%20(Asia%20Pacific).
+Link for Repo: [Hack the Interview IV(Asia Pacific)](https://github.com/OjasviChauhan/Competitive-Programming/tree/master/Hack%20the%20Interview%20IV%20(Asia%20Pacific)).
 - Completed 30-Days-of-Code and got gold batch on HackerRank.
