@@ -145,3 +145,7 @@ Connected my Dapp to Metamask Management System and gave it a run. Also learned 
 - Participated in a HackerRank contest known as ***Hack the Interview(Asia Pacific)*** and solved its first two problems.
 Link for Repo: [Competitive Programming](https://github.com/OjasviChauhan/Competitive-Programming/tree/master/Hack%20the%20Interview%20IV%20(Asia%20Pacific)).
 - Completed 30-Days-of-Code and got gold batch on HackerRank.
+## Day 40 : 1st June 2020
+- Completed Hack the Interview contest and scored 741 Rank. Link for Repo: [Competitive Programming](https://github.com/OjasviChauhan/Competitive-Programming/tree/master/Hack%20the%20Interview%20IV%20(Asia%20Pacific)).
+- Processed Post requests with body parser in calulator project.
+- Added BMI Calculator plugin in that Calculator Web App.
