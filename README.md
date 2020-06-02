@@ -149,3 +149,8 @@ Link for Repo: [Competitive Programming](https://github.com/OjasviChauhan/Compet
 - Completed Hack the Interview contest and scored 741 Rank. Link for Repo: [Competitive Programming](https://github.com/OjasviChauhan/Competitive-Programming/tree/master/Hack%20the%20Interview%20IV%20(Asia%20Pacific)).
 - Processed Post requests with body parser in calulator project.
 - Added BMI Calculator plugin in that Calculator Web App.
+## Day 41 : 2nd June 2020
+- Solved a String problem asked in the Amazon Interview on LeetCode.
+- Completed 5 star in Problem Solving on HackerRank.
+- Completed 5 star in Python as well.
+- Learned about jQuery and its commands.
