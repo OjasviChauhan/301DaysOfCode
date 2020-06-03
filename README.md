@@ -154,3 +154,6 @@ Link for Repo: [Competitive Programming](https://github.com/OjasviChauhan/Compet
 - Completed 5 star in Problem Solving on HackerRank.
 - Completed 5 star in Python as well.
 - Learned about jQuery and its commands.
+## Day 42 : 3rd June 2020
+- Learned jQuery and some of its functions like .animate, .css, .pretend, .append, etc.
+- Solved CodeForces Round #646.A problem.
