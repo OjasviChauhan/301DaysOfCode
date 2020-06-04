@@ -157,3 +157,4 @@ Link for Repo: [Competitive Programming](https://github.com/OjasviChauhan/Compet
 ## Day 42 : 3rd June 2020
 - Learned jQuery and some of its functions like .animate, .css, .pretend, .append, etc.
 - Solved CodeForces Round #646.A problem.
+## Day 43 : 4th June 2020
