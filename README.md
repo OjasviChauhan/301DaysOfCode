@@ -158,3 +158,4 @@ Link for Repo: [Competitive Programming](https://github.com/OjasviChauhan/Compet
 - Learned jQuery and some of its functions like .animate, .css, .pretend, .append, etc.
 - Solved CodeForces Round #646.A problem.
 ## Day 43 : 4th June 2020
+Took part in CodeForces Round #647 and solved its problem A.
