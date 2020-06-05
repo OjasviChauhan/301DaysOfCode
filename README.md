@@ -159,3 +159,6 @@ Link for Repo: [Competitive Programming](https://github.com/OjasviChauhan/Compet
 - Solved CodeForces Round #646.A problem.
 ## Day 43 : 4th June 2020
 Took part in CodeForces Round #647(Div. 2) and solved its problem A.
+## Day 44 : 5th June 2020
+- Building a new web page called ***tindog*** using Bootstrap and CSS. Click [here](https://github.com/OjasviChauhan/Web-Development/tree/master/Bootstrap%20%26%20Css/TinDog) to check progress.
+- Solved first 3 problems of Codechef's June Long Challenge.
