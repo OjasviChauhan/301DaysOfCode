@@ -162,3 +162,6 @@ Took part in CodeForces Round #647(Div. 2) and solved its problem A.
 ## Day 44 : 5th June 2020
 - Building a new web page called ***tindog*** using Bootstrap and CSS. Click [here](https://github.com/OjasviChauhan/Web-Development/tree/master/Bootstrap%20%26%20Css/TinDog) to check progress.
 - Solved first 3 problems of Codechef's June Long Challenge.
+## Day 45 : 6th June 2020
+- Solved two more problems of Codechef's June20 Long challenge, i.e. Total 5 problems till now.
+- Studied SEPM on Coursera.
