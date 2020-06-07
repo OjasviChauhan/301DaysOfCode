@@ -165,3 +165,6 @@ Took part in CodeForces Round #647(Div. 2) and solved its problem A.
 ## Day 45 : 6th June 2020
 - Solved two more problems of Codechef's June20 Long challenge, i.e. Total 5 problems till now.
 - Studied SEPM on Coursera.
+## Day 46 : 7th June 2020
+- Tried to solve Codechef further.
+- Participated in CodeForces #Round 648 and solved its problems.
