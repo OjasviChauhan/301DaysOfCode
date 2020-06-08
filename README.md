@@ -168,3 +168,6 @@ Took part in CodeForces Round #647(Div. 2) and solved its problem A.
 ## Day 46 : 7th June 2020
 - Tried to solve Codechef further.
 - Participated in CodeForces #Round 648 and solved its problems.
+## Day 47 : 8th June 2020
+- Solved 9th problem of CodeChef Long Challenge.
+- Learned some new commands of git for undoing changes. For eg: --amend, git revert, git checkout. Also learned about git branch system.
