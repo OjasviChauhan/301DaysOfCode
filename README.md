@@ -171,3 +171,6 @@ Took part in CodeForces Round #647(Div. 2) and solved its problem A.
 ## Day 47 : 8th June 2020
 - Solved 9th problem of CodeChef Long Challenge.
 - Learned some new commands of git for undoing changes. For eg: --amend, git revert, git checkout. Also learned about git branch system.
+## Day 48 : 9th June 2020
+- Learned how to work with remote repositories using git command line interface.
+- Added some new features to Tindog project using Bootstrap 4.
