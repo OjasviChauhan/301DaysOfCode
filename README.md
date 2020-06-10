@@ -176,4 +176,4 @@ Took part in CodeForces Round #647(Div. 2) and solved its problem A.
 - Added some new features to Tindog project using Bootstrap 4.
 ## Day 49 : 10th June 2020
 - Cleared the Problem Solving (Basic) assessment on HackerRank and got certified.
-- Added Bootstrap Carousel feature in my ***tindog*** website.
+- Added Bootstrap Carousel feature in my [tindog](https://github.com/OjasviChauhan/Web-Development/tree/master/Bootstrap%20%26%20Css) website. 
