@@ -174,3 +174,5 @@ Took part in CodeForces Round #647(Div. 2) and solved its problem A.
 ## Day 48 : 9th June 2020
 - Learned how to work with remote repositories using git command line interface.
 - Added some new features to Tindog project using Bootstrap 4.
+## Day 49 : 10th June 2020
+Added Bootstrap Carousel feature in my ***tindog*** website.
