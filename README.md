@@ -175,5 +175,5 @@ Took part in CodeForces Round #647(Div. 2) and solved its problem A.
 - Learned how to work with remote repositories using git command line interface.
 - Added some new features to Tindog project using Bootstrap 4.
 ## Day 49 : 10th June 2020
-- Cleared the Problem Solving (Basic) assesment on HackerRank and got certified.
+- Cleared the Problem Solving (Basic) assessment on HackerRank and got certified.
 - Added Bootstrap Carousel feature in my ***tindog*** website.
