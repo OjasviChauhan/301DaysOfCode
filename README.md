@@ -178,3 +178,5 @@ Took part in CodeForces Round #647(Div. 2) and solved its problem A.
 - Cleared the Problem Solving (Basic) assessment on HackerRank and got certified.
 - Added Bootstrap Carousel feature in my [tindog](https://github.com/OjasviChauhan/Web-Development/tree/master/Bootstrap%20%26%20Css) website. 
 ## Day 50 : 11th June 2020
+- Came back to Blockchain and learned some improvements of Solidity and tried to implement some Dapps.
+- Also learned about APIs and how to add them in our projects.
