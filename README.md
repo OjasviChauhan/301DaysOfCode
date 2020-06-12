@@ -180,3 +180,6 @@ Took part in CodeForces Round #647(Div. 2) and solved its problem A.
 ## Day 50 : 11th June 2020
 - Came back to Blockchain and learned some improvements of Solidity and tried to implement some Dapps.
 - Also learned about APIs and how to add them in our projects.
+## Day 51 : 12th June 2020
+- Learned Bootstrap Cards and implemented them to my price tags of tindog website.
+- Started a new series of Graph Theory on FreeCodeCamp
