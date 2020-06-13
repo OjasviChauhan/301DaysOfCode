@@ -183,3 +183,6 @@ Took part in CodeForces Round #647(Div. 2) and solved its problem A.
 ## Day 51 : 12th June 2020
 - Learned Bootstrap Cards and implemented them to my price tags of tindog website.
 - Started a new series of Graph Theory on FreeCodeCamp
+## Day 52 : 13th June 2020
+- Participated in CodeForces Round 649 and solved its problems.
+- Learned about git rebase command and implemented its uses.
