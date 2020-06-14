@@ -126,63 +126,79 @@ Connected my Dapp to Metamask Management System and gave it a run. Also learned 
 - Learned adding Event Listeners in Javascript. <br/>
 - Learned adding sounds in websites. <br/>
 - Also Learned about Javascript Objects from Udemy course.
+
 ## Day 36 : 28th May 2020
 - Solved Problem 2 of Code Gladiator's online coding round. Link is here: [Code Gladiators](https://github.com/OjasviChauhan/Competitive-Programming/tree/master/Code%20Gladiators) <br/>
 - Learned how to add KeyPress Event Listeners in JavaScript. <br/> 
 - Learned creating Constructors and their Methods in Javascript.
+
 ## Day 37 : 29th May 2020
 - Studied Exceptions and Inheritance in Python and then solved its problem on HackerRank. Link for Repo: [HackerRank Python](https://github.com/OjasviChauhan/HackerRank-Python/tree/master/Strings).
 - Completed Advanced Javascript & DOM manipulation by learning how to add animations to buttons and finally made a **"Drum Kit"** Website. Click [here](https://github.com/OjasviChauhan/Web-Development/tree/master/Advanced%20Javascript%20and%20DOM%20Manipulation/Drum%20Kit) to visit.
 - Done Problem Solving on HackerRank.
 - And Finally started Node.js and imported my first package from https://www.npmjs.com/ to my "Intro to node" Project.
+
 ## Day 38 : 30th May 2020
 - Created my first Express Server under which:- 
   - Learned how to recieve request and send response.
   - Learned how to get directory name of html page using ***__dirname*** from anywhere anytime.
   - Learned how to body-parse content of html on the server. <br/>
   Link for Repository : [my-Express-Server](https://github.com/OjasviChauhan/Web-Development/tree/master/my-express-server/Creating%20my%20First%20server).
+
 ## Day 39 : 31st May 2020
 - Participated in a HackerRank contest known as ***Hack the Interview(Asia Pacific)*** and solved its first two problems.
 Link for Repo: [Competitive Programming](https://github.com/OjasviChauhan/Competitive-Programming/tree/master/Hack%20the%20Interview%20IV%20(Asia%20Pacific)).
 - Completed 30-Days-of-Code and got gold batch on HackerRank.
+
 ## Day 40 : 1st June 2020
 - Completed Hack the Interview contest and scored 741 Rank. Link for Repo: [Competitive Programming](https://github.com/OjasviChauhan/Competitive-Programming/tree/master/Hack%20the%20Interview%20IV%20(Asia%20Pacific)).
 - Processed Post requests with body parser in calulator project.
 - Added BMI Calculator plugin in that Calculator Web App.
+
 ## Day 41 : 2nd June 2020
 - Solved a String problem asked in the Amazon Interview on LeetCode.
 - Completed 5 star in Problem Solving on HackerRank.
 - Completed 5 star in Python as well.
 - Learned about jQuery and its commands.
+
 ## Day 42 : 3rd June 2020
 - Learned jQuery and some of its functions like .animate, .css, .pretend, .append, etc.
 - Solved CodeForces Round #646.A problem.
+
 ## Day 43 : 4th June 2020
 Took part in CodeForces Round #647(Div. 2) and solved its problem A.
 ## Day 44 : 5th June 2020
 - Building a new web page called ***tindog*** using Bootstrap and CSS. Click [here](https://github.com/OjasviChauhan/Web-Development/tree/master/Bootstrap%20%26%20Css/TinDog) to check progress.
 - Solved first 3 problems of Codechef's June Long Challenge.
+
 ## Day 45 : 6th June 2020
 - Solved two more problems of Codechef's June20 Long challenge, i.e. Total 5 problems till now.
 - Studied SEPM on Coursera.
+
 ## Day 46 : 7th June 2020
 - Tried to solve Codechef further.
 - Participated in CodeForces #Round 648 and solved its problems.
+
 ## Day 47 : 8th June 2020
 - Solved 9th problem of CodeChef Long Challenge.
 - Learned some new commands of git for undoing changes. For eg: --amend, git revert, git checkout. Also learned about git branch system.
+
 ## Day 48 : 9th June 2020
 - Learned how to work with remote repositories using git command line interface.
 - Added some new features to Tindog project using Bootstrap 4.
+
 ## Day 49 : 10th June 2020
 - Cleared the Problem Solving (Basic) assessment on HackerRank and got certified.
 - Added Bootstrap Carousel feature in my [tindog](https://github.com/OjasviChauhan/Web-Development/tree/master/Bootstrap%20%26%20Css) website. 
+
 ## Day 50 : 11th June 2020
 - Came back to Blockchain and learned some improvements of Solidity and tried to implement some Dapps.
 - Also learned about APIs and how to add them in our projects.
+
 ## Day 51 : 12th June 2020
 - Learned Bootstrap Cards and implemented them to my price tags of tindog website.
 - Started a new series of Graph Theory on FreeCodeCamp
+
 ## Day 52 : 13th June 2020
 - Participated in CodeForces Round 649 and solved its problems.
 - Learned about git rebase command and implemented its uses.
