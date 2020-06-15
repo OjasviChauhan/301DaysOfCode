@@ -205,3 +205,7 @@ Took part in CodeForces Round #647(Div. 2) and solved its problem A.
 
 ## Day 53 : 14th June 2020
 Tried to Solve the 6th problem of CodeChef's June Long Challenge for tuples.
+
+## Day 54 : 15th June 2020
+- Completed 6th question of Long challenge and ended the contest with 1553 World rank.
+- Learned about APIs
