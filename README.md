@@ -212,4 +212,4 @@ Tried to Solve the 6th problem of CodeChef's June Long Challenge for tuples.
 
 ## Day 55 : 16th June 2020
 Made a new Application called **Bitcoin-Ticker** which tells us the exchange values of fiat currencies into Bitcoin currencies and vice-versa. This is implemented using the APIs with the help of npm's ***request*** package. <br/>
-Link :[Bitcoin-Ticker](https://github.com/OjasviChauhan/Web-Development/tree/master/Bitcoin-Ticker).
+Link: [Bitcoin-Ticker](https://github.com/OjasviChauhan/Web-Development/tree/master/Bitcoin-Ticker).
