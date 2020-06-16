@@ -44,11 +44,11 @@ Competed Level 1 of **Foobar Challenge** and tried to solve Level 2's first ques
 
 Read the last Problem Statement of the course **SmartContract** which I've been doing on Coursera for few weeks and tried to build its Algorithm for file called **Auction.sol**.
 
-Link For Repository : [Google Foobar](https://github.com/OjasviChauhan/Google-Foobar). 
+Link For Repository : [Google Foobar](https://github.com/OjasviChauhan/Google-Foobar).
 ## Day 12 : 4th May 2020
-Completed 2nd Question of **Foobar Challenge**. 
+Completed 2nd Question of **Foobar Challenge**.
 
-Link For Repository : [Google Foobar](https://github.com/OjasviChauhan/Google-Foobar). 
+Link For Repository : [Google Foobar](https://github.com/OjasviChauhan/Google-Foobar).
 ## Day 13 : 5th May 2020
 Solved questions from **Codechef's May Long Challenge** and tried to solve a Level 3 question of Foobar.
 
@@ -58,7 +58,7 @@ Solved first question of Level 3 of Foobar Challenge. Link is [here](https://git
 
 Solved questions from Codechef's Long Challenge. Link is [here](https://github.com/OjasviChauhan/CodeChef-Problems/tree/master/5.May%20Long%20Challenge%2020).
 ## Day 15 : 7th May 2020
-Successfully completed 2nd course "Smart Contracts" from the specialization of Blockchain. Worked on the last project of course and created a smart contract for an Auction. 
+Successfully completed 2nd course "Smart Contracts" from the specialization of Blockchain. Worked on the last project of course and created a smart contract for an Auction.
 
 Link for Repository : [Smart Contracts](https://github.com/OjasviChauhan/Smart-Contracts)
 ## Day 16 : 8th May 2020
@@ -72,15 +72,15 @@ Also studied some examples of Dynamic Programing and solved its problems on Hack
 ## Day 18 : 10th May 2020
 Solved problems of DP on Hackerrank and continued to learn Python. Link for Repository : [Dynamic Programing](https://github.com/OjasviChauhan/HackerRank-ProblemSolving/tree/master/Dynamic%20Programing).
 ## Day 19 : 11th May 2020
-Studied Python further and started to solve problems on Hackerrank in the domain of Python. Link for Repository : [Hackerrank Python](https://github.com/OjasviChauhan/HackerRank-Python/tree/master/Introduction). 
+Studied Python further and started to solve problems on Hackerrank in the domain of Python. Link for Repository : [Hackerrank Python](https://github.com/OjasviChauhan/HackerRank-Python/tree/master/Introduction).
 ## Day 20 : 12th May 2020
 Studied Functions and Arguments in Python. Solved problems of python on Hackerrank and earned 2nd star badge.
 
-Link for repository: [Hackerrank Python](https://github.com/OjasviChauhan/HackerRank-Python/tree/master/Introduction). 
+Link for repository: [Hackerrank Python](https://github.com/OjasviChauhan/HackerRank-Python/tree/master/Introduction).
 ## Day 21 : 13th May 2020
 Started a new course **Introduction to Git and Github** on [Coursera](https://www.coursera.org/learn/introduction-git-github/home/welcome) and studied about **"Version Control Systems"**.
 
-Studied Dynamic Programming and solved its problems on Hackerrank in Python Language. [Click here](https://github.com/OjasviChauhan/HackerRank-ProblemSolving/blob/master/Dynamic%20Programing/Fibonacci%20Modified.py) to check program which I made. 
+Studied Dynamic Programming and solved its problems on Hackerrank in Python Language. [Click here](https://github.com/OjasviChauhan/HackerRank-ProblemSolving/blob/master/Dynamic%20Programing/Fibonacci%20Modified.py) to check program which I made.
 
 Solved Python questions from Hackerrank in the sub domain of **'Basic data Types'**. Link For Repository : [Hackerrank Python](https://github.com/OjasviChauhan/HackerRank-Python/tree/master/Basic%20Data%20Types).
 ## Day 22 : 14th May 2020
@@ -94,13 +94,13 @@ Studied Dynamic Programming and solved a question on a tetrahedral using DP from
 ## Day 25 : 17th May 2020
 Participated in Google Kickstart Round C and was able to solve it's two questions i.e **Countdown** and **Perfect Subarray**.
 
-Also Solved questions from Hackerrank in the domain of Dynamic Programming. Link is [here](https://github.com/OjasviChauhan/HackerRank-ProblemSolving/blob/master/Dynamic%20Programing/The%20Maximum%20Subarray.py). 
+Also Solved questions from Hackerrank in the domain of Dynamic Programming. Link is [here](https://github.com/OjasviChauhan/HackerRank-ProblemSolving/blob/master/Dynamic%20Programing/The%20Maximum%20Subarray.py).
 ## Day 26 : 18th May 2020
 Studied JDBC from the topic Advance Java and Studied Git from the course **Introduction to Git and Github** from Coursera.
 
 Also solved problems of Python on Hackerrank. Link for Repository: [Hackerrank Python](https://github.com/OjasviChauhan/HackerRank-Python/tree/master/Basic%20Data%20Types).
 ## Day 27 : 19th May 2020
-Learned some new commands of Git and implemented them on Git Bash 
+Learned some new commands of Git and implemented them on Git Bash
 ## Day 28 : 20th May 2020
 Today, I've just coded some problems of strings in the domain of Python on HackerRank. Link for Repository : [Hackerrank Python](https://github.com/OjasviChauhan/HackerRank-Python/tree/master/Strings).
 ## Day 29 : 21st May 2020
@@ -114,7 +114,7 @@ Started a new Course in the specialization of Blockchain i.e. [Decentralized App
 - Deployed my first smart contract in Truffle IDE on localhost and learned various commands of truffle.
 
 ## Day 31 : 23rd May 2020
-Created a full stack Decentralized App for "voting the fruits" on Blockchain Server. Firstly I created its backend using smart contracts on truffle IDE and then migrated and tested those on the same. 
+Created a full stack Decentralized App for "voting the fruits" on Blockchain Server. Firstly I created its backend using smart contracts on truffle IDE and then migrated and tested those on the same.
 After that I used some pre-defined templates written in JavaScript, for connecting it with front-end using some of the node modules like "lite-server".
 ## Day 32 : 24th May 2020
 Started a new Web development bootcamp from Udemy and learn some functions of Javascript.
@@ -129,7 +129,7 @@ Connected my Dapp to Metamask Management System and gave it a run. Also learned 
 
 ## Day 36 : 28th May 2020
 - Solved Problem 2 of Code Gladiator's online coding round. Link is here: [Code Gladiators](https://github.com/OjasviChauhan/Competitive-Programming/tree/master/Code%20Gladiators) <br/>
-- Learned how to add KeyPress Event Listeners in JavaScript. <br/> 
+- Learned how to add KeyPress Event Listeners in JavaScript. <br/>
 - Learned creating Constructors and their Methods in Javascript.
 
 ## Day 37 : 29th May 2020
@@ -139,7 +139,7 @@ Connected my Dapp to Metamask Management System and gave it a run. Also learned 
 - And Finally started Node.js and imported my first package from https://www.npmjs.com/ to my "Intro to node" Project.
 
 ## Day 38 : 30th May 2020
-- Created my first Express Server under which:- 
+- Created my first Express Server under which:-
   - Learned how to recieve request and send response.
   - Learned how to get directory name of html page using ***__dirname*** from anywhere anytime.
   - Learned how to body-parse content of html on the server. <br/>
@@ -189,7 +189,7 @@ Took part in CodeForces Round #647(Div. 2) and solved its problem A.
 
 ## Day 49 : 10th June 2020
 - Cleared the Problem Solving (Basic) assessment on HackerRank and got certified.
-- Added Bootstrap Carousel feature in my [tindog](https://github.com/OjasviChauhan/Web-Development/tree/master/Bootstrap%20%26%20Css) website. 
+- Added Bootstrap Carousel feature in my [tindog](https://github.com/OjasviChauhan/Web-Development/tree/master/Bootstrap%20%26%20Css) website.
 
 ## Day 50 : 11th June 2020
 - Came back to Blockchain and learned some improvements of Solidity and tried to implement some Dapps.
@@ -209,3 +209,7 @@ Tried to Solve the 6th problem of CodeChef's June Long Challenge for tuples.
 ## Day 54 : 15th June 2020
 - Completed 6th question of Long challenge and ended the contest with 1553 World rank.
 - Learned about APIs
+
+## Day 55 : 16th June 2020
+Made a new Application called **Bitcoin-Ticker** which tells us the exchange values of fiat currencies into Bitcoin currencies and vice-versa. This is implemented using the APIs with the help of npm's ***request*** package. <br/>
+Link :[Bitcoin-Ticker](https://github.com/OjasviChauhan/Web-Development/tree/master/Bitcoin-Ticker).
