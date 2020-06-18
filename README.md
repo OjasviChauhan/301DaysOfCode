@@ -217,3 +217,7 @@ Link: [Bitcoin-Ticker](https://github.com/OjasviChauhan/Web-Development/tree/mas
 ## Day 56 : 17th June 2020
 Learned about JSON format and how to parse them into the server body. <br/>
 Added the same into my app: Bitcoin-Ticker.
+
+## Day 57 : 18th June 2020
+- Learned how to make API calls by passing **"option"** object as a Parameter in request method.
+- Solved few problems on HackerRank
