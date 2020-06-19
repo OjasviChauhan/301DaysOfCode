@@ -221,3 +221,5 @@ Added the same into my app: Bitcoin-Ticker.
 ## Day 57 : 18th June 2020
 - Learned how to make API calls by passing **"option"** object as a Parameter in request method.
 - Solved few problems on HackerRank
+
+## Day 58 : 19th June 2020
