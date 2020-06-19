@@ -223,3 +223,4 @@ Added the same into my app: Bitcoin-Ticker.
 - Solved few problems on HackerRank
 
 ## Day 58 : 19th June 2020
+Studied Graph Theory from FreeCodeCamp.org and learned some new Algorithms.
