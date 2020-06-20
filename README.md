@@ -224,3 +224,6 @@ Added the same into my app: Bitcoin-Ticker.
 
 ## Day 58 : 19th June 2020
 Studied Graph Theory from FreeCodeCamp.org and learned some new Algorithms.
+
+## Day 59 : 20th June 2020
+Solved few problems from CodeForces and continued the web development course. 
