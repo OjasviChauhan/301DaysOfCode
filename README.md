@@ -227,3 +227,5 @@ Studied Graph Theory from FreeCodeCamp.org and learned some new Algorithms.
 
 ## Day 59 : 20th June 2020
 Solved few problems from CodeForces and continued the web development course. 
+
+## Day 60 : 21st June 2020
