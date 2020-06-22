@@ -233,4 +233,5 @@ Solved few problems from CodeForces and continued the web development course.
 - Solved CodeForces Problems.
 
 ## Day 61 : 22nd June 2020
-Solved a Google Coding Interview Problem based on Moore's Voting Algorithm in which we've to find out the majority element in an array. Time Complexity of code should be O(n), and Space Complexity should be O(1).
+Solved a Google Coding Interview Problem based on Moore's Voting Algorithm in which we've to find out the majority element in an array. Time Complexity of code should be O(n), and Space Complexity should be O(1). <br/>
+Link of Code : [Competitive Programming](https://github.com/OjasviChauhan/Competitive-Programming/tree/master/Moore's%20Voting%20Algorithm).
