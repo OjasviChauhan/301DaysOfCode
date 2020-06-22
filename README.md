@@ -231,3 +231,6 @@ Solved few problems from CodeForces and continued the web development course.
 ## Day 60 : 21st June 2020
 - Learned Git Rebasing and Code reviews.
 - Solved CodeForces Problems.
+
+## Day 61 : 22nd June 2020
+Solved a Google Coding Interview Problem based on Moore's Voting Algorithm in which we've to find out the majority element in an array. Time Complexity of code should be O(n), and Space Complexity should be O(1).
