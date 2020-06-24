@@ -239,3 +239,6 @@ Link of Code : [Competitive Programming](https://github.com/OjasviChauhan/Compet
 ## Day 62 : 23rd June 2020
 - Participated in CodeForces Round 652 and solved its first two problems.
 - Completed the course **"Introduction to Git and Github"** on Coursera and got certified by Google.
+
+## Day 63 : 24th June 2020
+Solved HackerRank's Problem Solving further.
