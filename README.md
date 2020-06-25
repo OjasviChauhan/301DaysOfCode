@@ -243,5 +243,5 @@ Link of Code : [Competitive Programming](https://github.com/OjasviChauhan/Compet
 ## Day 63 : 24th June 2020
 Solved HackerRank's Problem Solving further.
 
-##Day 64 : 25th June 2020
+## Day 64 : 25th June 2020
 Learned about APIs and how to use **"options"** object to call them by passing parameters.
