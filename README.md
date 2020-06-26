@@ -245,3 +245,6 @@ Solved HackerRank's Problem Solving further.
 
 ## Day 64 : 25th June 2020
 Learned about APIs and how to use **"options"** object to call them by passing parameters.
+
+## Day 65 : 26th June 2020
+Learned some new Algorithms from algoexpert.io and participated in Hack the Interview V (Asia Pacific).
