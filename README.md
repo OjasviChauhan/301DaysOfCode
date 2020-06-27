@@ -248,3 +248,6 @@ Learned about APIs and how to use **"options"** object to call them by passing p
 
 ## Day 65 : 26th June 2020
 Learned some new Algorithms from algoexpert.io and participated in Hack the Interview V (Asia Pacific).
+
+## Day 66 : 27th June 2020
+Solved problems of Hack the Interview V and took part in Codechef LunchBox June20 and Solved its first two problems.
