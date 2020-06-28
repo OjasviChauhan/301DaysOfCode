@@ -251,3 +251,6 @@ Learned some new Algorithms from algoexpert.io and participated in Hack the Inte
 
 ## Day 66 : 27th June 2020
 Solved problems of Hack the Interview V and took part in Codechef LunchBox June20 and Solved its first two problems.
+
+## Day 67 : 28th June 2020
+Participated in Codeforces Round 653 (Div 3) and solved its problems A,B and D
