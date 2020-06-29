@@ -254,3 +254,7 @@ Solved problems of Hack the Interview V and took part in Codechef LunchBox June2
 
 ## Day 67 : 28th June 2020
 Participated in Codeforces Round 653 (Div 3) and solved its problems A,B and D
+
+## Day 68 : 29th June 2020
+Solved few past problems on Codeforces and this time in C++ <br/>
+Also revised few concepts of C++
