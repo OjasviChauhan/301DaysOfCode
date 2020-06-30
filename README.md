@@ -258,3 +258,6 @@ Participated in Codeforces Round 653 (Div 3) and solved its problems A,B and D
 ## Day 68 : 29th June 2020
 Solved few past problems on Codeforces and this time in C++ <br/>
 Also revised few concepts of C++
+
+## Day 69 : 30th June 2020
+Learned some optimization techniques in coding and done few problems in C++.
