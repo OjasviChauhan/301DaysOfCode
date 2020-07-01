@@ -261,3 +261,6 @@ Also revised few concepts of C++
 
 ## Day 69 : 30th June 2020
 Learned some optimization techniques in coding and done few problems in C++.
+
+## Day 70 : 1st June 2020
+Studied SEPM and learned some concepts of Javascript.
