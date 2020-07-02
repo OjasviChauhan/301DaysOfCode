@@ -264,3 +264,6 @@ Learned some optimization techniques in coding and done few problems in C++.
 
 ## Day 70 : 1st June 2020
 Studied SEPM and learned some concepts of Javascript.
+
+## Day 71 : 2nd June 2020
+Studied DCN for my End Sems and solved past contest problems on Codeforces.
