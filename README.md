@@ -267,3 +267,7 @@ Studied SEPM and learned some concepts of Javascript.
 
 ## Day 71 : 2nd June 2020
 Studied DCN for my End Sems and solved past contest problems on Codeforces.
+
+## Day 72 : 3rd June 2020
+Solved Codeforces Virtual Contest for Round 654 and solved its first 2 problems. <br/>
+Also solved first two problems of Codechef's July Long Challenge.
