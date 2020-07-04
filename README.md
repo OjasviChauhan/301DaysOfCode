@@ -262,12 +262,15 @@ Also revised few concepts of C++
 ## Day 69 : 30th June 2020
 Learned some optimization techniques in coding and done few problems in C++.
 
-## Day 70 : 1st June 2020
+## Day 70 : 1st July 2020
 Studied SEPM and learned some concepts of Javascript.
 
-## Day 71 : 2nd June 2020
+## Day 71 : 2nd July 2020
 Studied DCN for my End Sems and solved past contest problems on Codeforces.
 
-## Day 72 : 3rd June 2020
+## Day 72 : 3rd July 2020
 Solved Codeforces Virtual Contest for Round 654 and solved its first 2 problems. <br/>
 Also solved first two problems of Codechef's July Long Challenge.
+
+## Day 73 : 4th July 2020
+Solved Codechef's Long Challenge and studied for End Sems.
