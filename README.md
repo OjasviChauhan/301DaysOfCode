@@ -269,8 +269,9 @@ Studied SEPM and learned some concepts of Javascript.
 Studied DCN for my End Sems and solved past contest problems on Codeforces.
 
 ## Day 72 : 3rd July 2020
-Solved Codeforces Virtual Contest for Round 654 and solved its first 2 problems. <br/>
-Also solved first two problems of Codechef's July Long Challenge.
+- Solved Codeforces Virtual Contest for Round 654 and solved its first 2 problems. <br/>
+- Also solved first two problems of Codechef's July Long Challenge. <br/>
+Link : [Codechef's July Long Challenge](https://github.com/OjasviChauhan/CodeChef-Problems/tree/master/7.July%20Long%20Challenge%2020)
 
 ## Day 73 : 4th July 2020
 Solved Codechef's Long Challenge and studied for End Sems.
@@ -281,4 +282,5 @@ Studied DCN.
 
 ## Day 75 : 6th July 2020
 - Studied DCN for end-sem exam.
-- Completed fourth question of Codechef's July long Challenge. Link : [Codechef's July Long Challenge](https://github.com/OjasviChauhan/CodeChef-Problems/tree/master/7.July%20Long%20Challenge%2020)
+- Completed fourth question of Codechef's July long Challenge. <br/>
+Link : [Codechef's July Long Challenge](https://github.com/OjasviChauhan/CodeChef-Problems/tree/master/7.July%20Long%20Challenge%2020)
