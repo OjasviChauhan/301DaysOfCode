@@ -278,3 +278,7 @@ Solved Codechef's Long Challenge and studied for End Sems.
 ## Day 74 : 5th July 2020
 Tried to solve Codechef's July Long Challenge's 4th problem. <br/>
 Studied DCN.
+
+## Day 75 : 6th July 2020
+- Studied DCN for end-sem exam.
+- Completed fourth question of Codechef's July long Challenge.
