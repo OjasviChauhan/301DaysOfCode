@@ -284,3 +284,5 @@ Studied DCN.
 - Studied DCN for end-sem exam.
 - Completed fourth question of Codechef's July long Challenge. <br/>
 Link : [Codechef's July Long Challenge](https://github.com/OjasviChauhan/CodeChef-Problems/tree/master/7.July%20Long%20Challenge%2020)
+
+## Day 76 : 7th July 2020
