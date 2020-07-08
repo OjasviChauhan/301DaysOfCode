@@ -287,3 +287,7 @@ Link : [Codechef's July Long Challenge](https://github.com/OjasviChauhan/CodeChe
 
 ## Day 76 : 7th July 2020
 Studied SEPM for my End Sem Exams.
+
+## Day 77 : 8th July 2020
+- Studied Software Engineering and Project Management. <br/>
+- Tried problem 5 of Codechef Long Challenge.
