@@ -291,3 +291,6 @@ Studied SEPM for my End Sem Exams.
 ## Day 77 : 8th July 2020
 - Studied Software Engineering and Project Management. <br/>
 - Tried problem 5 of Codechef Long Challenge.
+
+## Day 78 : 9th July 2020
+Studied Java for my End Sem Exams.
