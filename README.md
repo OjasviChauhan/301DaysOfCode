@@ -297,3 +297,7 @@ Studied Java for my End Sem Exams.
 
 ## Day 79 : 10th July 2020
 Tried to solve problem 6 of Codechef's July Long Challenge.
+
+## Day 80 : 11th July 2020
+- Started React.js today and leaned about JSX technology and Babel Compiler.
+- Also did some react coding on Code Sandbox and added some styles to my react app.
