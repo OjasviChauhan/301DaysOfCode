@@ -301,3 +301,6 @@ Tried to solve problem 6 of Codechef's July Long Challenge.
 ## Day 80 : 11th July 2020
 - Started React.js today and leaned about JSX technology and Babel Compiler.
 - Also did some react coding on Code Sandbox and added some styles to my react app.
+
+## Day 81 : 12th July 2020
+Took part in Google's KickStart 2020 Round D and was able to solve its first two problems. [KickStart](https://github.com/OjasviChauhan/Google-Coding-Competitions/tree/master/Kickstart%202020).
