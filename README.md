@@ -304,3 +304,6 @@ Tried to solve problem 6 of Codechef's July Long Challenge.
 
 ## Day 81 : 12th July 2020
 Took part in Google's KickStart 2020 Round D and was able to solve its first two problems. [KickStart](https://github.com/OjasviChauhan/Google-Coding-Competitions/tree/master/Kickstart%202020).
+
+## Day 82 : 13th July 2020
+Worked on my Portfolio which has used Gatsby.js and React.js
