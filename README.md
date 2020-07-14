@@ -307,3 +307,6 @@ Took part in Google's KickStart 2020 Round D and was able to solve its first two
 
 ## Day 82 : 13th July 2020
 Worked on my Portfolio which has used Gatsby.js and React.js
+
+## Day 83 : 14th July 2020
+Worked on my portfolio and studied about graphQL data query language.
