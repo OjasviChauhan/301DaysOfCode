@@ -310,3 +310,6 @@ Worked on my Portfolio which has used Gatsby.js and React.js
 
 ## Day 83 : 14th July 2020
 Worked on my portfolio and studied about graphQL data query language.
+
+## Day 84 : 15th July 2020
+Worked on my Portfolio and learned about svg image format.
