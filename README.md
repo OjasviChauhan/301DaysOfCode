@@ -313,3 +313,6 @@ Worked on my portfolio and studied about graphQL data query language.
 
 ## Day 84 : 15th July 2020
 Worked on my Portfolio and learned about svg image format.
+
+## Day 85 : 16th July 2020
+Not done much productive today. Just revised some DSA concepts.
