@@ -316,3 +316,6 @@ Worked on my Portfolio and learned about svg image format.
 
 ## Day 85 : 16th July 2020
 Not done much productive today. Just revised some DSA concepts.
+
+## Day 86 : 17th July 2020
+Learned about WordPress open-source content management system. Also worked on my portfolio.
