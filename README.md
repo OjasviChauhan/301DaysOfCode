@@ -319,3 +319,6 @@ Not done much productive today. Just revised some DSA concepts.
 
 ## Day 86 : 17th July 2020
 Learned about WordPress open-source content management system. Also worked on my portfolio.
+
+## Day 87 : 18th July 2020
+Learned about React props and made a React app for Contacts where you can create as many contact cards as you want by just importing the properties of a single card.
