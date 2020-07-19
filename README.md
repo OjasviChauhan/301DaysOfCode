@@ -322,3 +322,8 @@ Learned about WordPress open-source content management system. Also worked on my
 
 ## Day 87 : 18th July 2020
 Learned about React props and made a React app for Contacts where you can create as many contact cards as you want by just importing the properties of a single card.
+
+## Day 88 : 19th July 2020
+- Learned how to deploy websites on netlify and gh-pages.
+- So I've been working on my portfolio website for some days. Now it is ready and deployed on netlify.<br>
+click [here](https://ojasvichauhan.netlify.app/) to visit.
