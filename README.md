@@ -330,3 +330,6 @@ click [here](https://ojasvichauhan.netlify.app/) to visit.
 
 ## Day 89 : 20th July 2020
 Practiced some problems on codeforces
+
+## Day 90 : 21st July 2020
+Got to know about Readme stat API and designed my front page of github.
