@@ -333,3 +333,6 @@ Practiced some problems on codeforces
 
 ## Day 90 : 21st July 2020
 Got to know about Readme stat API and designed my front page of github.
+
+## Day 91 : 22nd July 2020
+Fixed Resume bug on my portfolio website in which Resume was unable to open on mobile phones but it was accessible from Laptop/Desktop.
