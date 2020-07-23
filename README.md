@@ -336,3 +336,6 @@ Got to know about Readme stat API and designed my front page of github.
 
 ## Day 91 : 22nd July 2020
 Fixed Resume bug on my portfolio website in which Resume was unable to open on mobile phones but it was accessible from Laptop/Desktop.
+
+## Day 92 : 23rd July 2020
+Practiced Problem Solving on HackerRank from Interview Preparation Kit section.
