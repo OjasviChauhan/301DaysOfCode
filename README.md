@@ -339,3 +339,6 @@ Fixed Resume bug on my portfolio website in which Resume was unable to open on m
 
 ## Day 92 : 23rd July 2020
 Practiced Problem Solving on HackerRank from Interview Preparation Kit section.
+
+## Day 93 : 24th July 2020
+Learned React maps and implemented on Code SandBox
