@@ -357,3 +357,7 @@ Did problem solving on LeetCode.
 
 ## Day 98 : 29th July 2020
 Did problem solving on LeetCode.
+
+## Day 99 : 30th July 2020
+Did problem solving on LeetCode from Linked List section.<br>
+view solution [here](https://github.com/OjasviChauhan/Competitive-Programming/tree/master/LeetCode%20Problems).
