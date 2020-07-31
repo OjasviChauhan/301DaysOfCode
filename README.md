@@ -361,3 +361,6 @@ Did problem solving on LeetCode.
 ## Day 99 : 30th July 2020
 Did problem solving on LeetCode from Linked List section.<br>
 view solution [here](https://github.com/OjasviChauhan/Competitive-Programming/tree/master/LeetCode%20Problems).
+
+## Day 100 : 31st July 2020
+Did problem solving on LeetCode and participated in Hack the Interview VI (Asia Pacific).
