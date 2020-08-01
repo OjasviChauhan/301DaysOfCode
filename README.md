@@ -364,3 +364,6 @@ view solution [here](https://github.com/OjasviChauhan/Competitive-Programming/tr
 
 ## Day 100 : 31st July 2020
 Did problem solving on LeetCode and participated in Hack the Interview VI (Asia Pacific).
+
+## Day 101 : 1st August 2020
+Solved a problem of Hack the Interview VI
