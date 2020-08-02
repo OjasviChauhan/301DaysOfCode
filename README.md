@@ -367,3 +367,6 @@ Did problem solving on LeetCode and participated in Hack the Interview VI (Asia 
 
 ## Day 101 : 1st August 2020
 Solved a problem of Hack the Interview VI
+
+## Day 102 : 2nd August 2020
+Studied Data Structures from GeeksForGeeks and practiced some problems based on Hashing and Min-heap.
