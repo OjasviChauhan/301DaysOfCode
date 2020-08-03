@@ -370,3 +370,6 @@ Solved a problem of Hack the Interview VI
 
 ## Day 102 : 2nd August 2020
 Studied Data Structures from GeeksForGeeks and practiced some problems based on Hashing and Min-heap.
+
+## Day 103 : 3rd August 2020
+Did a problem on String Reduction using Dictionaries of Python.
