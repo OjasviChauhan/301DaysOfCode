@@ -373,3 +373,6 @@ Studied Data Structures from GeeksForGeeks and practiced some problems based on 
 
 ## Day 103 : 3rd August 2020
 Did a problem on String Reduction using Dictionaries of Python.
+
+## Day 104 : 4th August 2020
+Did two problems on LeetCode. <br>One was to delete all duplicate values in a LinkedList and another was to find maximum subString length. 
