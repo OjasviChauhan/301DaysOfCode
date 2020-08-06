@@ -379,3 +379,6 @@ Did two problems on LeetCode. <br>One was to delete all duplicate values in a Li
 
 ## Day 105 : 5th August 2020
 Did problem solving on LeetCode.
+
+## Day 106 : 6th August 2020
+Studied Dynammic Programming from Geeks for Geeks.
