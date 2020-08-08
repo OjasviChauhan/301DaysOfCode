@@ -386,3 +386,6 @@ Studied Dynammic Programming from Geeks for Geeks.
 ## Day 107 : 7th August 2020
 - Studied Dynamic Programming and solved a problem from GeeksForGeeks.
 - Participated in Codechef August Long Challenge 20 and solved first 3 problems for today.
+
+## Day 108 : 8th August 2020
+Solved 4th problem of August Challenge on Codechef.
