@@ -392,3 +392,6 @@ Solved 4th problem of August Challenge on Codechef.
 
 ## Day 109 : 9th August 2020
 Solved 5th problem of August Long Challenge on Codechef.
+
+## Day 110 : 10th August 2020
+Studied Computer Graphics and tried to solve codechef August challenge
