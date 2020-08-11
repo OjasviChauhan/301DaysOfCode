@@ -395,3 +395,7 @@ Solved 5th problem of August Long Challenge on Codechef.
 
 ## Day 110 : 10th August 2020
 Studied Computer Graphics and tried to solve codechef August challenge
+
+## Day 111 : 11th August 2020
+- Tried to solve the 6th problem of August Long Challenge.
+- Studied Computer Graphics.
