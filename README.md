@@ -399,3 +399,6 @@ Studied Computer Graphics and tried to solve codechef August challenge
 ## Day 111 : 11th August 2020
 - Tried to solve the 6th problem of August Long Challenge.
 - Studied Computer Graphics.
+
+## Day 112 : 12th August 2020
+Studied Dynammic Programming and solved problems from Geeks for Geeks.
