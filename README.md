@@ -402,3 +402,12 @@ Studied Computer Graphics and tried to solve codechef August challenge
 
 ## Day 112 : 12th August 2020
 Studied Dynammic Programming and solved problems from Geeks for Geeks.
+
+## Day 113 : 13th August 2020
+Studied Dynamic Programming and solved problems.
+
+## Day 114 : 14th August 2020
+Studied Dynamic Programming from Coding Blocks and solved problems from gfg.
+
+## Day 115 : 15th August 2020
+Studied Segment Trees and implemented its build,query and update feature.
