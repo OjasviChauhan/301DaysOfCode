@@ -411,3 +411,9 @@ Studied Dynamic Programming from Coding Blocks and solved problems from gfg.
 
 ## Day 115 : 15th August 2020
 Studied Segment Trees and implemented its build,query and update feature.
+
+## Day 116 : 16th August 2020
+Studied about Percolation Algorithm and implemented it using Union & Find.
+
+## Day 117 : 17th August 2020
+Solved DP problems from GFG.
