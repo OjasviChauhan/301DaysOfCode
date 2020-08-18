@@ -417,3 +417,6 @@ Studied about Percolation Algorithm and implemented it using Union & Find.
 
 ## Day 117 : 17th August 2020
 Solved DP problems from GFG.
+
+## Day 118 : 18th August 2020
+Studied Union & Find Data Structures and implemented them in C++
