@@ -420,3 +420,6 @@ Solved DP problems from GFG.
 
 ## Day 118 : 18th August 2020
 Studied Union & Find Data Structures and implemented them in C++
+
+## Day 119 : 19th August 2020
+Prepared the documentation for my minor projects and solved 0/1 Knapsack Problem using bottom-up DP.
