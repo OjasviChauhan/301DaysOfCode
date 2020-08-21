@@ -426,3 +426,6 @@ Prepared the documentation for my minor projects and solved 0/1 Knapsack Problem
 
 ## Day 120 : 20th August 2020
 Solved DP problems from GFG.
+
+## Day 121 : 21st August 2020
+Solved "count of subset in array" problem from Dynamic Programming. 
