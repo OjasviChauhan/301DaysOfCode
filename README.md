@@ -429,3 +429,6 @@ Solved DP problems from GFG.
 
 ## Day 121 : 21st August 2020
 Solved "count of subset in array" problem from Dynamic Programming. 
+
+## Day 122 : 22nd August 2020
+Studied Dynamic Programming and Prepared Synopsis for our minor Projects.
