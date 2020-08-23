@@ -432,3 +432,6 @@ Solved "count of subset in array" problem from Dynamic Programming.
 
 ## Day 122 : 22nd August 2020
 Studied Dynamic Programming and Prepared Synopsis for our minor Projects.
+
+## Day 123 : 23rd August 2020
+Solved few problems on DP from GeeksforGeeks.
