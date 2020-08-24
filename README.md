@@ -435,3 +435,6 @@ Studied Dynamic Programming and Prepared Synopsis for our minor Projects.
 
 ## Day 123 : 23rd August 2020
 Solved few problems on DP from GeeksforGeeks.
+
+## Day 124 : 24th August 2020
+Studied Computer Graphics and learned about OpenGl.
