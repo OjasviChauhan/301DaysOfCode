@@ -438,3 +438,6 @@ Solved few problems on DP from GeeksforGeeks.
 
 ## Day 124 : 24th August 2020
 Studied Computer Graphics and learned about OpenGl.
+
+## Day 125 : 25th August 2020
+Solved few question in python.
