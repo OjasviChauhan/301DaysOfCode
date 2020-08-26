@@ -441,3 +441,6 @@ Studied Computer Graphics and learned about OpenGl.
 
 ## Day 125 : 25th August 2020
 Solved few question in python.
+
+## Day 126 : 26th August 2020
+Solved Dp problems
