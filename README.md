@@ -450,7 +450,7 @@ Solved DP problems from Gfg.
 
 ## Day 128: 28th August 2020
 - Studied C++ STL from Coding Blocks.
-- Started solving problems on InterviewBit section wise and became higest scorer of my college:
+- Started solving problems on InterviewBit section wise and became highest scorer of my college:
   - Solved MCQs on Time complexity.
   - Solved two problems on Arrays asked in Amazon & GoldmanSachs.
 - Found the bug in problem "count of subset sum" and fixed it by changing its initialization.
