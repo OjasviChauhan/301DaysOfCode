@@ -449,7 +449,7 @@ Solved Dp problems.
 Solved DP problems from Gfg.
 
 ## Day 128: 28th August 2020
-- Studied C++ STL from Coding Blocks.
+- Revised C++ STL from Coding Blocks.
 - Started solving problems on InterviewBit section wise and became highest scorer of my college:
   - Solved MCQs on Time complexity.
   - Solved two problems on Arrays asked in Amazon & GoldmanSachs.
