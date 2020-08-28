@@ -443,4 +443,14 @@ Studied Computer Graphics and learned about OpenGl.
 Solved few question in python.
 
 ## Day 126 : 26th August 2020
-Solved Dp problems
+Solved Dp problems.
+
+## Day 127: 27th August 2020
+Solved DP problems from Gfg.
+
+## Day 128: 28th August 2020
+- Studied C++ STL from Coding Blocks.
+- Started solving problems on InterviewBit section wise and became higest scorer of my college:
+  - Solved MCQs on Time complexity.
+  - Solved two problems on Arrays asked in Amazon & GoldmanSachs.
+- Found the bug in problem "count of subset sum" and fixed it by changing its initialization.
