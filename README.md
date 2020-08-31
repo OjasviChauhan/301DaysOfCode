@@ -454,3 +454,11 @@ Solved DP problems from Gfg.
   - Solved MCQs on Time complexity.
   - Solved two problems on Arrays asked in Amazon & GoldmanSachs.
 - Found the bug in problem "count of subset sum" and fixed it by changing its initialization.
+
+## Day 129 : 29th August 2020
+- Solved questions on InterviewBit.
+- Solved problems on LCS from Dynamic Programming.
+
+## Day 130: 30th August 2020
+- Solved LCS problems and Studied Heap data structure and implemented it by priority queue STL.
+- Solved questions on InterviewBit.
