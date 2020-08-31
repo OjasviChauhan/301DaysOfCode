@@ -445,10 +445,10 @@ Solved few question in python.
 ## Day 126 : 26th August 2020
 Solved Dp problems.
 
-## Day 127: 27th August 2020
+## Day 127 : 27th August 2020
 Solved DP problems from Gfg.
 
-## Day 128: 28th August 2020
+## Day 128 : 28th August 2020
 - Revised C++ STL from Coding Blocks.
 - Started solving problems on InterviewBit section wise and became highest scorer of my college:
   - Solved MCQs on Time complexity.
@@ -459,6 +459,9 @@ Solved DP problems from Gfg.
 - Solved questions on InterviewBit.
 - Solved problems on LCS from Dynamic Programming.
 
-## Day 130: 30th August 2020
+## Day 130 : 30th August 2020
 - Solved LCS problems and Studied Heap data structure and implemented it by priority queue STL.
 - Solved questions on InterviewBit.
+
+## Day 131 : 31st August 2020
+Solved DP question on Longest Palindromic Substring.
