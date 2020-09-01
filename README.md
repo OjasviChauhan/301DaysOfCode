@@ -465,3 +465,6 @@ Solved DP problems from Gfg.
 
 ## Day 131 : 31st August 2020
 Solved DP question on Longest Palindromic Substring.
+
+## Day 132 : 1st September 2020
+Studied Matrix Chain Multiplication and wrote its recursive code and then memoized it into DP. 
