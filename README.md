@@ -468,3 +468,6 @@ Solved DP question on Longest Palindromic Substring.
 
 ## Day 132 : 1st September 2020
 Studied Matrix Chain Multiplication and wrote its recursive code and then memoized it into DP. 
+
+## Day 133 : 2nd September 2020
+Solved few problems on Heap and Stack from InterviewBit.
