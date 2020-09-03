@@ -471,3 +471,6 @@ Studied Matrix Chain Multiplication and wrote its recursive code and then memoiz
 
 ## Day 133 : 2nd September 2020
 Solved few problems on Heap and Stack from InterviewBit.
+
+## Day 134 : 3rd September 2020
+Solved few problems from Heap and stack from Gfg.
