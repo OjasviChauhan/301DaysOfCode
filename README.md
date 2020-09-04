@@ -474,3 +474,6 @@ Solved few problems on Heap and Stack from InterviewBit.
 
 ## Day 134 : 3rd September 2020
 Solved few problems from Heap and stack from Gfg.
+
+## Day 135 : 4th September 2020
+Solved some famous problems on stacks like Max Area Histogram, Rain Water Traping,etc.
