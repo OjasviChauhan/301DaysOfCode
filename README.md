@@ -477,3 +477,7 @@ Solved few problems from Heap and stack from Gfg.
 
 ## Day 135 : 4th September 2020
 Solved some famous problems on stacks like Max Area Histogram, Rain Water Traping,etc.
+
+## Day 136 : 5th September 2020
+- Solved questions on two pointers from InterviewBit.
+- Solved 1st problem of Codechef September Long Challenge.
