@@ -484,3 +484,9 @@ Solved some famous problems on stacks like Max Area Histogram, Rain Water Trapin
 
 ## Day 137 : 6th September 2020
 Solved problems on MCM on String partition palindrome.
+
+## Day 138 : 7th September 2020
+Solved problems on heap from interviewbit and gfg.
+
+## Day 139 : 8th September 2020
+Solved problems from two pointers from InterviewBit
