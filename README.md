@@ -490,3 +490,6 @@ Solved problems on heap from interviewbit and gfg.
 
 ## Day 139 : 8th September 2020
 Solved problems from two pointers from InterviewBit
+
+## Day 140 : 9th September 2020
+Tried to solve codechef's 3rd problem of long challenge.
