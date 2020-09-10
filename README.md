@@ -493,3 +493,6 @@ Solved problems from two pointers from InterviewBit
 
 ## Day 140 : 9th September 2020
 Tried to solve codechef's 3rd problem of long challenge.
+
+## Day 141 : 10th September 2020
+tried to solve codechef's 3rd and 4th problem of September Long Challenge.
