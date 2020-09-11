@@ -495,4 +495,8 @@ Solved problems from two pointers from InterviewBit
 Tried to solve codechef's 3rd problem of long challenge.
 
 ## Day 141 : 10th September 2020
-tried to solve codechef's 3rd and 4th problem of September Long Challenge.
+Tried to solve codechef's 3rd and 4th problem of September Long Challenge.
+
+## Day 142 : 11th September 2020
+- Successfully solved 4th problem of long challenge. Now heading towards 5th.
+- Studied Tries data structure.
