@@ -500,3 +500,6 @@ Tried to solve codechef's 3rd and 4th problem of September Long Challenge.
 ## Day 142 : 11th September 2020
 - Successfully solved 4th problem of long challenge. Now heading towards 5th.
 - Studied Tries data structure.
+
+## Day 143 : 12th September 2020
+Solved 4th problem of codechef's long challenge and tried to solve EQDIV problem.
