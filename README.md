@@ -503,3 +503,6 @@ Tried to solve codechef's 3rd and 4th problem of September Long Challenge.
 
 ## Day 143 : 12th September 2020
 Solved 4th problem of codechef's long challenge and tried to solve EQDIV problem.
+
+## Day144 : 13th September 2020
+Solved 6th problem of codechef long challenge
