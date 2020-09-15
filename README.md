@@ -509,3 +509,6 @@ Solved 6th problem of codechef long challenge
 
 ## Day 145 : 14th September 2020
 Ended Codechef Long Challenge with world rank of #2386.
+
+## Day 146 : 15th September 2020
+Solved some basic problems of recursion.
