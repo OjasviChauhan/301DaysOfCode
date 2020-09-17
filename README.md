@@ -512,3 +512,9 @@ Ended Codechef Long Challenge with world rank of #2386.
 
 ## Day 146 : 15th September 2020
 Solved some basic problems of recursion.
+
+## Day 147 : 16th September 2020
+Studied Recursion from Youtube and solved few problems.
+
+## Day 148 : 17th September 2020
+Solved few problems on Recursion from Gfg.
