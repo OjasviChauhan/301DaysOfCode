@@ -524,3 +524,9 @@ Studied Recursion from Coding Blocks.
 
 ## Day 150 : 19th September 2020
 Solved some recursion problems and a difficult problem from Leetcode based on Heaps.
+
+## Day 151 : 20th September 2020
+Solved problems from codechef's cookoff.
+
+## Day 152 : 21st September 2020
+Studied Recursion.
