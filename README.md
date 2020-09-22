@@ -530,3 +530,6 @@ Solved problems from codechef's cookoff.
 
 ## Day 152 : 21st September 2020
 Studied Recursion.
+
+## Day 153 : 22nd September 2020
+Studied Backtracking and solved problems like "Rat in Maze" and "N-Queen Problem" based on the same concept. 
