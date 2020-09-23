@@ -533,3 +533,6 @@ Studied Recursion.
 
 ## Day 153 : 22nd September 2020
 Studied Backtracking and solved problems like "Rat in Maze" and "N-Queen Problem" based on the same concept. 
+
+## Day 154 : 23rd September 2020
+Tried to solve a problem from Leetcode on heaps.
