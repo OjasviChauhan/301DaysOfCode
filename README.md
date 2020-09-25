@@ -536,3 +536,9 @@ Studied Backtracking and solved problems like "Rat in Maze" and "N-Queen Problem
 
 ## Day 154 : 23rd September 2020
 Tried to solve a problem from Leetcode on heaps.
+
+## Day 155 : 24th September 2020
+Worked on my minors and tried to design algorithm for Percolation Model.
+
+## Day 156 : 25th September 2020
+Worked on my minors and completed my full code for Percolation Model using Union-Find Data Structures.
