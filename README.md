@@ -542,3 +542,6 @@ Worked on my minors and tried to design algorithm for Percolation Model.
 
 ## Day 156 : 25th September 2020
 Worked on my minors and completed my full code for Percolation Model using Union-Find Data Structures.
+
+## Day 157 : 26th September 2020
+Studied Bactracting, Binary Search and Sliding Window.
