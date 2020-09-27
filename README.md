@@ -516,6 +516,9 @@ Solved some basic problems of recursion.
 ## Day 147 : 16th September 2020
 Studied Recursion from Youtube and solved few problems.
 
+## Day 147 : 16th September 2020
+Studied Recursion from Youtube and solved few problems.
+
 ## Day 148 : 17th September 2020
 Solved few problems on Recursion from Gfg.
 
@@ -545,3 +548,7 @@ Worked on my minors and completed my full code for Percolation Model using Union
 
 ## Day 157 : 26th September 2020
 Studied Backtracting, Binary Search and Sliding Window.
+
+## Day 158 : 27th September 2020
+Studied for minor and prepared the document for the presentation.
+
