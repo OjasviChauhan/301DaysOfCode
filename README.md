@@ -549,3 +549,8 @@ Studied Backtracting, Binary Search and Sliding Window.
 ## Day 158 : 27th September 2020
 Studied for minor and prepared the document for the presentation.
 
+## Day 159 : 28th September 2020
+Prepared for minor 1.
+
+## Day 160 : 29th September 2020
+Prepared presentation for Minors.
