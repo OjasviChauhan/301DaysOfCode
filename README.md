@@ -554,3 +554,6 @@ Prepared for minor 1.
 
 ## Day 160 : 29th September 2020
 Prepared presentation for Minors.
+
+## Day 161 : 30th September 2020
+Prepared the presentation of our minor projects and discussed its implemenation with friends.
