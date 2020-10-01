@@ -557,3 +557,6 @@ Prepared presentation for Minors.
 
 ## Day 161 : 30th September 2020
 Prepared the presentation for our minor projects and discussed its implementation with friends.
+
+## Day 162 : 1st October 2020
+Spent whole day doing assignments in various subjects.
