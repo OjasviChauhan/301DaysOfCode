@@ -560,3 +560,9 @@ Prepared the presentation for our minor projects and discussed its implementatio
 
 ## Day 162 : 1st October 2020
 Spent whole day doing assignments in various subjects.
+
+## Day 163 : 2nd October 2020
+Studied Computer Graphics.
+
+## Day 164 : 3rd October 2020
+Solved a problem of recursion from leetcode.
