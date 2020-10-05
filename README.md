@@ -566,3 +566,9 @@ Studied Computer Graphics.
 
 ## Day 164 : 3rd October 2020
 Solved a problem of recursion from leetcode.
+
+## Day 165 : 4th October 2020
+Studied Compiler Design
+
+## Day 166 : 5th October 2020
+Studied Digital Forensics for mid sems.
