@@ -572,3 +572,6 @@ Studied Compiler Design
 
 ## Day 166 : 5th October 2020
 Studied Digital Forensics for mid sems.
+
+## Day 167 : 6th October 2020
+Studied Compiler Design and started codechef october challenge.
