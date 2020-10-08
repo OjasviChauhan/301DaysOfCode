@@ -575,3 +575,9 @@ Studied Digital Forensics for mid sems.
 
 ## Day 167 : 6th October 2020
 Studied Compiler Design and started codechef october challenge.
+
+## Day 168 : 7th October 2020
+Solved 1st problem of codechef long challenge.
+
+## Day 169 : 8th October 2020
+Solved 2nd and 3rd problem from codechef long challenge.
