@@ -584,3 +584,9 @@ Solved 2nd and 3rd problem from codechef long challenge.
 
 ## Day 170 : 9th October 2020
 Studied Computer Graphics for mid sems.
+
+## Day 171 : 10th October 2020
+Studied for midsems
+
+## Day 172 : 11th October 2020
+Tried to solve Codechef long challenges
