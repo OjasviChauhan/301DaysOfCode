@@ -590,3 +590,9 @@ Studied for midsems
 
 ## Day 172 : 11th October 2020
 Tried to solve Codechef long challenges
+
+## Day 173 : 12th October 2020
+Completed Codechef Long Challenge with world rank of 2038.
+
+## Day 174 : 13th October 2020
+Prepared for It-infra mid sem.
