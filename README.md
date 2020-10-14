@@ -596,3 +596,6 @@ Completed Codechef Long Challenge with world rank of 2038.
 
 ## Day 174 : 13th October 2020
 Prepared for It-infra mid sem.
+
+## Day 175 : 14th October 2020
+Studied about Open Stego Stegnographic tool and used it to watermark some images.
