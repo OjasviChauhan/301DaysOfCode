@@ -599,3 +599,6 @@ Prepared for It-infra mid sem.
 
 ## Day 175 : 14th October 2020
 Studied about Open Stego Stegnographic tool and used it to watermark some images.
+
+## Day 176 : 15th October 2020
+Studied 3-D transformations about an arbitrary point in Computer graphics.
