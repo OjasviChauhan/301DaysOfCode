@@ -602,3 +602,9 @@ Studied about Open Stego Stegnographic tool and used it to watermark some images
 
 ## Day 176 : 15th October 2020
 Studied 3-D transformations about an arbitrary point in Computer graphics.
+
+## Day 177 : 16th October 2020
+Studied Binary Search and solved problems.
+
+## Day 178 : 17th October 2020
+Solved few problems of binary search on gfg.
