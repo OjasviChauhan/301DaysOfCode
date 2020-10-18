@@ -608,3 +608,6 @@ Studied Binary Search and solved problems.
 
 ## Day 178 : 17th October 2020
 Solved few problems of binary search on gfg.
+
+## Day 179 : 18th October 2020
+Tried to complete DF Assignment 1.
