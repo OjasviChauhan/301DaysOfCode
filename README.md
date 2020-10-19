@@ -611,3 +611,6 @@ Solved few problems of binary search on gfg.
 
 ## Day 179 : 18th October 2020
 Tried to complete DF Assignment 1.
+
+## Day 180 : 19th October 2020
+Completed the code of Sutherland Hodgeman Algorithm.
