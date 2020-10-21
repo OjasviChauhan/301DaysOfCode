@@ -617,3 +617,7 @@ Completed the code of Sutherland Hodgeman Algorithm.
 
 ## Day 181 : 20th October 2020
 Studied Binary Search further.
+
+## Day 182 : 21st October 2020
+- Solved problems of Binary Search further.
+- Studied about Entrepreneurship and started the course on coursera regarding the same.
