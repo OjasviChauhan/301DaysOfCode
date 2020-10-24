@@ -623,5 +623,7 @@ Studied Binary Search further.
 - Studied about Entrepreneurship and started the course on coursera regarding the same.
 
 ## Day 183 : 22nd October 2020
+Studied Binary search further.
 
 ## Day 184 : 23rd October 2020
+Completed few labs of 30 days of google cloud. 
