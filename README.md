@@ -627,3 +627,10 @@ Studied Binary search further.
 
 ## Day 184 : 23rd October 2020
 Completed few labs of 30 days of google cloud. 
+
+## Day 185 : 24th October 2020
+- Did problem solving in Binary Search
+- Studied Tree data structure
+
+## Day 186 : 25th October 2020
+Completed a quest in 30 days of google cloud.
