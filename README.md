@@ -634,3 +634,6 @@ Completed few labs of 30 days of google cloud.
 
 ## Day 186 : 25th October 2020
 Completed a quest in 30 days of google cloud.
+
+## Day 187 : 26th October 2020
+Completed Quest 2 in 30 Days of Google Cloud. 
