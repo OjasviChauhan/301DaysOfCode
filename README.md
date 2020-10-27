@@ -637,3 +637,6 @@ Completed a quest in 30 days of google cloud.
 
 ## Day 187 : 26th October 2020
 Completed Quest 2 in 30 Days of Google Cloud. 
+
+## Day 188 : 27th October 2020
+Studied Object Oriented Design and Analysis.
