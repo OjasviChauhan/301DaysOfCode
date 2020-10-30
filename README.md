@@ -642,3 +642,10 @@ Completed Quest 2 in 30 Days of Google Cloud.
 Studied Object Oriented Design and Analysis.
 
 ## Day 189 : 28th October 2020
+Done 30 Days Of google cloud
+
+## Day 190 : 29th October 2020
+Studied Tree Data Structure
+
+## Day 191 : 30th October 2020
+Implemented Various Traversals in Binary trees
