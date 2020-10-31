@@ -649,3 +649,7 @@ Studied Tree Data Structure
 
 ## Day 191 : 30th October 2020
 Implemented Various Traversals in Binary trees
+
+## Day 192 : 31st October 2020
+- Done with quest 3 of Google Cloud.
+- Completed Quiz 3 of Venture Ideation.
