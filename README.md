@@ -653,3 +653,6 @@ Implemented Various Traversals in Binary trees
 ## Day 192 : 31st October 2020
 - Done with quest 3 of Google Cloud.
 - Completed Quiz 3 of Venture Ideation.
+
+## Day 193 : 1st November 2020
+Done the code of spiral order traversal in binary trees
