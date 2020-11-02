@@ -656,3 +656,5 @@ Implemented Various Traversals in Binary trees
 
 ## Day 193 : 1st November 2020
 Done the code of spiral order traversal in binary trees
+
+## Day 194 : 2nd November 2020
