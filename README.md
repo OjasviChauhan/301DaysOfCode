@@ -659,3 +659,8 @@ Done the code of spiral order traversal in binary trees
 
 ## Day 194 : 2nd November 2020
 Completed 5th quest of Google Cloud
+
+## Day 195 : 3rd November 2020
+Solved Diameter of binary tree problem
+
+## Day 196 : 4th November 2020
