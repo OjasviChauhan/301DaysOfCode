@@ -664,3 +664,8 @@ Completed 5th quest of Google Cloud
 Solved Diameter of binary tree problem
 
 ## Day 196 : 4th November 2020
+- Solved Track 1 of google cloud.
+- Completed Innovation and Entrepreneurship course on coursera.
+
+## Day 197 : 5th November 2020
+Solved 4 problems from Binary Tree on Leetcode and revised a topic from binary search.
