@@ -669,3 +669,6 @@ Solved Diameter of binary tree problem
 
 ## Day 197 : 5th November 2020
 Solved 4 problems from Binary Tree on Leetcode and revised a topic from binary search.
+
+## Day 198 : 6th November 2020
+Studied about height balanced tree.
