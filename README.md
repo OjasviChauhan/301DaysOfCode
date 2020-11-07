@@ -672,3 +672,6 @@ Solved 4 problems from Binary Tree on Leetcode and revised a topic from binary s
 
 ## Day 198 : 6th November 2020
 Studied about height balanced tree.
+
+## Day 199 : 7th November 2020
+Solved problems on Binary Trees further.
