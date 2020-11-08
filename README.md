@@ -675,3 +675,7 @@ Studied about height balanced tree.
 
 ## Day 199 : 7th November 2020
 Solved problems on Binary Trees further.
+
+## Day 200 : 8th November 2020
+- Solved problems on Binary Trees from LeetCode Medium level interview section.
+- Revised CS fundamentals from GfG for Linkedin Intern Round I.
