@@ -685,3 +685,9 @@ Tried to solve 3d transformation code in computer graphics.
 
 ## Day 202 : 10th November 2020
 Gave LinkedIn Intern Exam.
+
+## Day 203 : 11th November 2020
+Solved problems on grid based DP.
+
+## Day 204 : 12th November 2020
+Solved problems on Binary trees and Arrays from LeetCode.
