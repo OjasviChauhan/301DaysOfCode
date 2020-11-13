@@ -693,4 +693,5 @@ Solved problems on grid based DP.
 Solved problems on Binary trees and Arrays from LeetCode.
 
 ## Day 205 : 13th November 2020
-Studied Binary Trees
+- Studied Lowest Common Ancestor in Binary Trees.
+- Studied Prime Sieve Eratosthenes algorithm to generate prime numbers in linear time.
