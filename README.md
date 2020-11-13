@@ -691,3 +691,6 @@ Solved problems on grid based DP.
 
 ## Day 204 : 12th November 2020
 Solved problems on Binary trees and Arrays from LeetCode.
+
+## Day 205 : 13th November 2020
+Studied Binary Trees
