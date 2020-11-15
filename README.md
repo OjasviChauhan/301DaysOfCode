@@ -695,3 +695,9 @@ Solved problems on Binary trees and Arrays from LeetCode.
 ## Day 205 : 13th November 2020
 - Studied Lowest Common Ancestor in Binary Trees.
 - Studied Prime Sieve Eratosthenes algorithm to generate prime numbers in linear time.
+
+## Day 206 : 14th November 2020
+Solved Binary Tree Problems
+
+## Day 207 : 15th November 2020
+Solved Binary Search Tree problems
