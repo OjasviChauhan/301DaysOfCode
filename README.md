@@ -706,4 +706,4 @@ Solved Binary Search Tree problems
 Studies Binary Search Trees.
 
 ## Day 209 : 17th November 2020
-Studied BSTs further.
+Studied BSTs further and learned the deletion of node in BST.
