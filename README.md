@@ -701,3 +701,9 @@ Solved Binary Tree Problems
 
 ## Day 207 : 15th November 2020
 Solved Binary Search Tree problems
+
+## Day 208 : 16th November 2020
+Studies Binary Search Trees.
+
+## Day 209 : 17th November 2020
+Studied BSTs further.
