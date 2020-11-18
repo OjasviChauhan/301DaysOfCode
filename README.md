@@ -707,3 +707,6 @@ Studies Binary Search Trees.
 
 ## Day 209 : 17th November 2020
 Studied BSTs further and learned the deletion of node in BST.
+
+## Day 210 : 18th November 2020
+Studied Bit Masking and solved codeforces round 684's first two problems.
