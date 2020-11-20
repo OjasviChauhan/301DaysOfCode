@@ -710,3 +710,9 @@ Studied BSTs further and learned the deletion of node in BST.
 
 ## Day 210 : 18th November 2020
 Studied Bit Masking and solved codeforces round 684's first two problems.
+ 
+## Day 211 : 19th November 2020
+Solved problems on bit masking.
+
+## Day 212 : 20th November 2020
+Solved problems of google kickstart past problems.
