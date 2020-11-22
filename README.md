@@ -716,3 +716,9 @@ Solved problems on bit masking.
 
 ## Day 212 : 20th November 2020
 Solved problems of google kickstart past problems.
+
+## Day 213 : 21st November 2020
+Studied Bitmasking and solved related problems.
+
+## Day 214 : 22nd November 2020
+Took part in codeforces round 685 div 2. was able to solve 2 questions only.
