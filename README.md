@@ -722,3 +722,6 @@ Studied Bitmasking and solved related problems.
 
 ## Day 214 : 22nd November 2020
 Took part in codeforces round 685 div 2. was able to solve 2 questions only.
+
+## Day 215 : 23rd November 2020
+Studing Bit Masking and solved problems.
