@@ -725,3 +725,6 @@ Took part in codeforces round 685 div 2. was able to solve 2 questions only.
 
 ## Day 215 : 23rd November 2020
 Studing Bit Masking and solved problems.
+
+## Day 216 : 24th November 2020
+Participated in CodeForces Round 686 Div.3
