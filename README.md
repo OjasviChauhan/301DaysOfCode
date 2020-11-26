@@ -728,3 +728,9 @@ Studing Bit Masking and solved problems.
 
 ## Day 216 : 24th November 2020
 Participated in CodeForces Round 686 Div.3
+
+## Day 217 : 25th November 2020
+Solved Codeforces past contest problems
+
+## Day 218 : 26th November 2020
+Solved few problems on Binary Search
