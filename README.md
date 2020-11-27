@@ -734,3 +734,6 @@ Solved Codeforces past contest problems
 
 ## Day 218 : 26th November 2020
 Solved few problems on Binary Search
+
+## Day 219 : 27th November 2020
+Studied inclusion exclusion principle.
