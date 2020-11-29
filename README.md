@@ -737,3 +737,9 @@ Solved few problems on Binary Search
 
 ## Day 219 : 27th November 2020
 Studied inclusion exclusion principle.
+
+## Day 220 : 28th November 2020
+Solved Problems on Mathematics.
+
+## Day 221 : 29th November 2020
+Revised Percolation topic for minors.
