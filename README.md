@@ -743,3 +743,6 @@ Solved Problems on Mathematics.
 
 ## Day 221 : 29th November 2020
 Revised Percolation topic for minors.
+
+## Day 222 : 30th November 2020
+Studied Computer Graphics and Percolation theory for minors.
