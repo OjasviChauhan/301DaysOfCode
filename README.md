@@ -746,3 +746,6 @@ Revised Percolation topic for minors.
 
 ## Day 222 : 30th November 2020
 Studied Computer Graphics and Percolation theory for minors.
+
+## Day 223 : 1st December 2020
+Participated in Codeforces Educational Round 99.
