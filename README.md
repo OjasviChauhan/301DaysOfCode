@@ -751,4 +751,13 @@ Studied Computer Graphics and Percolation theory for minors.
 Participated in Codeforces Educational Round 99.
 
 ## Day 224 : 2nd December 2020
-Studied for Minors
+Studied for Minors.
+
+## Day 225 : 3rd December 2020
+Studied for Minors.
+
+## Day 226 : 4th December 2020
+Studied for Minors and gave its final presentation.
+
+## Day 227 : 5th December 2020
+Solved some array questions from InterviewBit. 
