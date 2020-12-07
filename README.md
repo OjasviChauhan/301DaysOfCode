@@ -766,4 +766,4 @@ Solved some array questions from InterviewBit.
 Solved some problems from InterviewBit.
 
 ## Day 229 : 7th December 2020
-Solved Problems.
+Solved Problems and studied Computer Graphics
