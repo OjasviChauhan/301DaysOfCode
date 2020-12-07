@@ -761,3 +761,6 @@ Studied for Minors and gave its final presentation.
 
 ## Day 227 : 5th December 2020
 Solved some array questions from InterviewBit. 
+
+## Day 228 : 6th December 2020
+Solved some problems from InterviewBit.
