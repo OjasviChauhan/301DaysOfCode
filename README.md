@@ -764,3 +764,6 @@ Solved some array questions from InterviewBit.
 
 ## Day 228 : 6th December 2020
 Solved some problems from InterviewBit.
+
+## Day 229 : 7th December 2020
+Solved Problems.
