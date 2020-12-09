@@ -767,3 +767,6 @@ Solved some problems from InterviewBit.
 
 ## Day 229 : 7th December 2020
 Solved Problems and studied Computer Graphics
+
+## Day 230 : 8th December 2020
+Studied Computer Graphics for End Sems.
