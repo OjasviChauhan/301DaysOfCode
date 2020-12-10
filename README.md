@@ -770,3 +770,9 @@ Solved Problems and studied Computer Graphics
 
 ## Day 230 : 8th December 2020
 Studied Computer Graphics for End Sems.
+
+## Day 231 : 9th December 2020
+Studied Computer Graphics for Quiz and End Sems.
+
+## Day 232 : 10th December 2020
+Studied Matrix Exponentiation Algorithm for Solving Linear Recurrences.
