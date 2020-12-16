@@ -791,3 +791,6 @@ Studied OOAD for End Sems.
 
 ## Day 237 : 15th December 2020
 Gave End Sem for OOAD and Studied Computer Graphics.
+
+## Day 238 : 16th December 2020
+Studied Computer Graphics for end sems
