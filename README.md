@@ -797,3 +797,6 @@ Studied Computer Graphics for end sems
 
 ## Day 239 : 17th December 2020
 Gave Computer Graphics End Sem.
+
+## Day 240 : 18th December 2020
+Studied Compiler Design for End Sems.
