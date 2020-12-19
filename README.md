@@ -800,3 +800,6 @@ Gave Computer Graphics End Sem.
 
 ## Day 240 : 18th December 2020
 Studied Compiler Design for End Sems.
+
+## Day 241 : 19th December 2020
+Gave Compiler Design End Sem.
