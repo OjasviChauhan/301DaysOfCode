@@ -803,3 +803,9 @@ Studied Compiler Design for End Sems.
 
 ## Day 241 : 19th December 2020
 Gave Compiler Design End Sem.
+
+## Day 242 : 20th December 2020
+Solved DP Problems from LeetCode.
+
+## Day 243 : 21st December 2020
+Solved questions from leetcode.
