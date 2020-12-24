@@ -812,3 +812,9 @@ Solved questions from leetcode.
 
 ## Day 244 : 22nd December 2020
 Gave Digital Forensics End Sem.
+
+## Day 245 : 23rd December 2020
+Solved Dynamic Programming problems from LeetCode.
+
+## Day 246 : 24th December 2020
+Gave ISG end sem and solved problems on LeetCode.
