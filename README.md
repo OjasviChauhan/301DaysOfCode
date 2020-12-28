@@ -825,5 +825,8 @@ Solved Problems on LeetCode.
 ## Day 248 : 26th December 2020
 Solved Problems on Leetcode.
 
-## Day 249 :27th December 2020
+## Day 249 : 27th December 2020
 Solved problems on leetcode.
+
+## Day 250 : 28th December 2020
+Gave IT Infra End Sem and solved problems on Leetcode on binary trees.
