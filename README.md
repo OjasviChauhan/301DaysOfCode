@@ -830,3 +830,9 @@ Solved problems on leetcode.
 
 ## Day 250 : 28th December 2020
 Gave IT Infra End Sem and solved problems on Leetcode on binary trees.
+
+## Day 251 : 29th December 2020
+Studied Python for End Sems.
+
+## Day 252 : 30th December 2020
+Gave Python End Sems and solve problems from LeetCode.
