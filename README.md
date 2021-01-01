@@ -836,3 +836,6 @@ Studied Python for End Sems.
 
 ## Day 252 : 30th December 2020
 Gave Python End Sems and solve problems from LeetCode.
+
+## Day 253 : 31st December 2020
+Tried to solve a problem called "Median of two sorted array".
