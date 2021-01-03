@@ -839,3 +839,12 @@ Gave Python End Sems and solve problems from LeetCode.
 
 ## Day 253 : 31st December 2020
 Tried to solve a problem called "Median of two sorted array".
+
+## Day 254 : 1st January 2021
+Solved problems of dp on leetcode.
+
+## Day 255 : 2nd January 2021
+Started learning Graph theory from scratch.
+
+## Day 256 : 3rd January 2021
+Learned bfs and dfs traversals in graph and solved a problem called Snakes and Ladders.
