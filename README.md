@@ -848,3 +848,12 @@ Started learning Graph theory from scratch.
 
 ## Day 256 : 3rd January 2021
 Learned bfs and dfs traversals in graph and solved a problem called Snakes and Ladders.
+
+## Day 257 : 4th January 2021
+Studied Graph Theory
+
+## Day 258 : 5th January 2021
+Studied Undirected Graphs
+
+## Day 259 : 6th January 2021
+Studied Directed Graphs
