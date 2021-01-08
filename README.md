@@ -857,3 +857,9 @@ Studied Undirected Graphs
 
 ## Day 259 : 6th January 2021
 Studied Directed Graphs
+
+## Day 260 : 7th January 2021
+Implemenated Kosaraju's Algorithm.
+
+## Day 261 : 8th January 2021
+Studied Disjoint Set Union and solved related problems.
