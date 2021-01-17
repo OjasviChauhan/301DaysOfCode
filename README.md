@@ -878,3 +878,15 @@ Solved Graphs Problems
 
 ## Day 266 : 13th January 2021
 Studied Graphs.
+
+## Day 267 : 14th January 2021
+Solved problems on backtracking.
+
+## Day 268 : 15th January 2021
+Solved problems on dp.
+
+## Day 269 : 16th January 2021
+Solved problems on strings
+
+## Day 270 : 17th January 2021
+Solved problems on sliding window.
