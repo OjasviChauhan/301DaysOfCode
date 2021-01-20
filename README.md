@@ -890,3 +890,13 @@ Solved problems on strings
 
 ## Day 270 : 17th January 2021
 Solved problems on sliding window.
+
+## Day 271 : 18th January 2021
+Studied Graphs
+
+## Day 278 : 19th January 2021
+Studied Graphs and solved problems.
+Also took part in codeforces.
+
+## Day 279 : 20th January 2021
+Studied splitwise algorithm in graphs.
