@@ -900,3 +900,12 @@ Also took part in codeforces.
 
 ## Day 279 : 20th January 2021
 Studied splitwise algorithm in graphs.
+
+## Day 280 : 21st January 2021
+Solved problems from Leetcode
+
+## Day 281 : 22nd January 2021
+Solved problems from InterviewBit.
+
+## Day 282 : 23rd January 2021
+Solved Problems from Leetcode and Interviewbit.
