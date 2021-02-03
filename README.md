@@ -927,3 +927,18 @@ Solved Array Problems on InterviewBit.
 
 ## Day 288 : 29th January 2021
 Solved Bit Masking Problems on LeetCode.
+
+## Day 289 : 30th January 2021
+Solved problems from Leetcode.
+
+## Day 290 : 31st January 2021
+Solved problems from InterviewBit
+
+## Day 291 : 1st February 2021
+Solved Problems from InterviewBit
+
+## Day 292 : 2nd February 2021
+Solved Problems from LeetCode
+
+## Day 293 : 3rd February 2021
+Solved problems of sliding window
